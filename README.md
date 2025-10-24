@@ -20,7 +20,7 @@ Transform:
 Load:
 - Transformed data was loaded into the `project1_dw ` MySQL database
 - Tables `dim_date`, `dim_customers`, `dim_products`, and `fact_sales` were created
-- A procedure was provided that was used to create the `dim_date` table
+- A procedure was provided (originally in Microsft T-SQL form that was converted to MySQL form, both versions of which are uploaded in this repository) that was used to create the `dim_date` table
 
 ## Business Process
 Data mart models the retail sales process and tracks customer purchases of products over time. 
