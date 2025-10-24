@@ -1,0 +1,1001 @@
+CustomerID,AccountNumber,CustomerType,AddressType,AddressLine1,AddressLine2,City,StateProvinceCode,State_Province,IsOnlyStateProvinceFlag,PostalCode,CountryRegionCode,Country_Region,"Sales Territory Group","Sales Territory"
+1,AW00000001,S,"Main Office","2251 Elliot Avenue",NULL,Seattle,"WA ",Washington,0,98104,US,"United States","North America",Northwest
+2,AW00000002,S,Shipping,"7943 Walnut Ave",NULL,Renton,"WA ",Washington,0,98055,US,"United States","North America",Northwest
+2,AW00000002,S,"Main Office","3207 S Grady Way",NULL,Renton,"WA ",Washington,0,98055,US,"United States","North America",Northwest
+3,AW00000003,S,"Main Office","12345 Sterling Avenue",NULL,Irving,"TX ",Texas,0,75061,US,"United States","North America",Southwest
+4,AW00000004,S,"Main Office","800 Interchange Blvd.","Suite 2501",Austin,"TX ",Texas,0,78701,US,"United States","North America",Southwest
+4,AW00000004,S,Shipping,"165 North Main",NULL,Austin,"TX ",Texas,0,78701,US,"United States","North America",Southwest
+5,AW00000005,S,"Main Office","482505 Warm Springs Blvd.",NULL,Fremont,"CA ",California,0,94536,US,"United States","North America",Southwest
+6,AW00000006,S,"Main Office","39933 Mission Oaks Blvd",NULL,Camarillo,"CA ",California,0,93010,US,"United States","North America",Southwest
+7,AW00000007,S,"Main Office","5420 West 22500 South",NULL,"Salt Lake City","UT ",Utah,0,84101,US,"United States","North America",Northwest
+8,AW00000008,S,"Main Office","79945 Corporate Center Drive",NULL,Miami,"FL ",Florida,0,33127,US,"United States","North America",Southeast
+9,AW00000009,S,"Main Office","3333 Micro Drive",NULL,Millington,"TN ",Tennessee,0,38054,US,"United States","North America",Southeast
+10,AW00000010,S,"Main Office","6388 Lake City Way",NULL,Burnaby,"BC ","British Columbia",0,"V5A 3A6",CA,Canada,"North America",Canada
+11,AW00000011,S,"Main Office","52560 Free Street",NULL,Toronto,"ON ",Ontario,0,"M4B 1V7",CA,Canada,"North America",Canada
+12,AW00000012,S,"Main Office","22580 Free Street",NULL,Toronto,"ON ",Ontario,0,"M4B 1V7",CA,Canada,"North America",Canada
+13,AW00000013,S,"Main Office","7033, rue de Longchamp",NULL,"Les Ulis","91 ",Essonne,0,91940,FR,France,Europe,France
+14,AW00000014,S,"Main Office","Karl Liebknecht str 299",NULL,"Frankfurt am Main","SL ",Saarland,0,60075,DE,Germany,Europe,Germany
+15,AW00000015,S,"Main Office","25 Epping Road",NULL,"Lavender Bay",NSW,"New South Wales",0,2060,AU,Australia,Pacific,Australia
+16,AW00000016,S,"Main Office","93-2501, Blackfriars Road,",NULL,London,ENG,England,1,"SE1 8HL",GB,"United Kingdom",Europe,"United Kingdom"
+17,AW00000017,S,"Main Office","9920 Picketts Line Road",NULL,"Newport News","VA ",Virginia,0,23607,US,"United States","North America",Southeast
+18,AW00000018,S,"Main Office","855 East Main Avenue",NULL,Zeeland,"MI ",Michigan,0,49464,US,"United States","North America",Central
+19,AW00000019,S,Shipping,"1318 Lasalle Street",NULL,Bothell,"WA ",Washington,0,98011,US,"United States","North America",Northwest
+19,AW00000019,S,"Main Office","99300 223rd Southeast",NULL,Bothell,"WA ",Washington,0,98011,US,"United States","North America",Northwest
+20,AW00000020,S,"Main Office","259826 Russell Rd. South",NULL,Kent,"WA ",Washington,0,98031,US,"United States","North America",Northwest
+21,AW00000021,S,"Main Office","90025 Sterling St",NULL,Irving,"TX ",Texas,0,75061,US,"United States","North America",Southwest
+22,AW00000022,S,"Main Office","2505 Gateway Drive",NULL,"North Sioux City","SD ","South Dakota",0,57049,US,"United States","North America",Central
+23,AW00000023,S,"Main Office","60025 Bollinger Canyon Road",NULL,"San Ramon","CA ",California,0,94583,US,"United States","North America",Southwest
+24,AW00000024,S,"Main Office","9992 Whipple Rd",NULL,"Union City","CA ",California,0,94587,US,"United States","North America",Southwest
+25,AW00000025,S,"Main Office","Corporate Office",NULL,"El Segundo","CA ",California,0,90245,US,"United States","North America",Southwest
+26,AW00000026,S,"Main Office","1 Corporate Center Drive",NULL,Miami,"FL ",Florida,0,33127,US,"United States","North America",Southeast
+27,AW00000027,S,"Main Office","100 Fifth Drive",NULL,Millington,"TN ",Tennessee,0,38054,US,"United States","North America",Southeast
+28,AW00000028,S,"Main Office","2575 Bloor Street East",NULL,Toronto,"ON ",Ontario,0,"M4B 1V6",CA,Canada,"North America",Canada
+29,AW00000029,S,"Main Office","Station E",NULL,"Chalk Riber","ON ",Ontario,0,"K0J 1J0",CA,Canada,"North America",Canada
+30,AW00000030,S,"Main Office","575 Rue St Amable",NULL,Quebec,"QC ",Quebec,0,G1R,CA,Canada,"North America",Canada
+31,AW00000031,S,"Main Office","21105, rue de Varenne",NULL,Paris,"75 ","Seine (Paris)",0,75013,FR,France,Europe,France
+32,AW00000032,S,"Main Office","Roßstr 2248",NULL,Stuttgart,"SL ",Saarland,0,70511,DE,Germany,Europe,Germany
+33,AW00000033,S,"Main Office","Ctrcrt Bus Pk/995-27 Paul St N",NULL,"Lavender Bay",NSW,"New South Wales",0,2060,AU,Australia,Pacific,Australia
+34,AW00000034,S,"Main Office","Science Park South, Birchwood","Stanford House",Warrington,ENG,England,1,"WA3 7BH",GB,"United Kingdom",Europe,"United Kingdom"
+35,AW00000035,S,"Main Office","2532 Fairgrounds Road",NULL,"West Kingston","RI ","Rhode Island",0,02892,US,"United States","North America",Northeast
+36,AW00000036,S,"Main Office","6900 William Richardson Ct.",NULL,"South Bend","IN ",Indiana,0,46601,US,"United States","North America",Northeast
+37,AW00000037,S,"Main Office","35525-9th Street Sw",NULL,Puyallup,"WA ",Washington,0,98371,US,"United States","North America",Northwest
+38,AW00000038,S,"Main Office","640 South 994th St. W.",NULL,Billings,"MT ",Montana,0,59101,US,"United States","North America",Northwest
+39,AW00000039,S,"Main Office","74400 France Avenue South",NULL,Edina,"MN ",Minnesota,0,55436,US,"United States","North America",Central
+40,AW00000040,S,"Main Office","509 Nafta Boulevard",NULL,Laredo,"TX ",Texas,0,78040,US,"United States","North America",Southwest
+41,AW00000041,S,"Main Office","25001 Montague Expressway",NULL,Milpitas,"CA ",California,0,95035,US,"United States","North America",Southwest
+42,AW00000042,S,"Main Office","4460 Newport Center Drive",NULL,"Newport Beach","CA ",California,0,92625,US,"United States","North America",Southwest
+43,AW00000043,S,"Main Office","2575 West 2700 South",NULL,"Salt Lake City","UT ",Utah,0,84101,US,"United States","North America",Northwest
+44,AW00000044,S,"Main Office","2525 Electrics Blvd.",NULL,Huntsville,"AL ",Alabama,0,35801,US,"United States","North America",Southeast
+45,AW00000045,S,"Main Office","2550 High Street",NULL,"La Vergne","TN ",Tennessee,0,37086,US,"United States","North America",Southeast
+46,AW00000046,S,"Main Office","2512-4th Ave Sw",NULL,Calgary,"AB ",Alberta,0,"T2P 2G8",CA,Canada,"North America",Canada
+47,AW00000047,S,"Main Office","55 Lakeshore Blvd East",NULL,Toronto,"ON ",Ontario,0,"M4B 1V6",CA,Canada,"North America",Canada
+48,AW00000048,S,"Main Office","6333 Cote Vertu",NULL,Montreal,"QC ",Quebec,0,"H1Y 2H7",CA,Canada,"North America",Canada
+49,AW00000049,S,"Main Office","69, boulevard Tremblay",NULL,Roncq,"59 ",Nord,0,59223,FR,France,Europe,France
+50,AW00000050,S,"Main Office","Bundesallee 9571","Rechnungsstelle - C 035",Berlin,"BB ",Brandenburg,0,14197,DE,Germany,Europe,Germany
+51,AW00000051,S,"Main Office","2-252 Beauchamp Road","Botany Bay Industrial Estate",Cloverdale,"SA ","South Australia",0,6105,AU,Australia,Pacific,Australia
+52,AW00000052,S,"Main Office","Phoenix Way, Cirencester",NULL,Gloucestershire,ENG,England,1,"GL7 1RY",GB,"United Kingdom",Europe,"United Kingdom"
+53,AW00000053,S,"Main Office","99 Edgewater Drive",NULL,Norwood,"MA ",Massachusetts,0,02062,US,"United States","North America",Northeast
+54,AW00000054,S,"Main Office","Attn: Accounts Payable","44 Main Place",Melville,"NY ","New York",0,11747,US,"United States","North America",Northeast
+55,AW00000055,S,"Main Office","25300 Biddle Road",NULL,Medford,"OR ",Oregon,0,97504,US,"United States","North America",Northwest
+56,AW00000056,S,"Main Office",Gateway,NULL,Portland,"OR ",Oregon,0,97205,US,"United States","North America",Northwest
+57,AW00000057,S,"Main Office","25149 Howard Dr",NULL,"West Chicago","IL ",Illinois,0,60185,US,"United States","North America",Central
+58,AW00000058,S,"Main Office","63 W Monroe",NULL,Chicago,"IL ",Illinois,0,60610,US,"United States","North America",Central
+59,AW00000059,S,"Main Office","70259 West Sunnyview Ave",NULL,Visalia,"CA ",California,0,93291,US,"United States","North America",Southwest
+60,AW00000060,S,"Main Office","60750 San Clemente",NULL,Hayward,"CA ",California,0,94541,US,"United States","North America",Southwest
+61,AW00000061,S,"Main Office",Receiving,NULL,Fullerton,"CA ",California,0,92831,US,"United States","North America",Southwest
+62,AW00000062,S,"Main Office","Po Box 08050",NULL,Nashville,"TN ",Tennessee,0,37203,US,"United States","North America",Southeast
+63,AW00000063,S,"Main Office","Po Box 2257",NULL,Greensboro,"NC ","North Carolina",0,27412,US,"United States","North America",Southeast
+64,AW00000064,S,"Main Office","3255 Front Street West",NULL,Toronto,"ON ",Ontario,0,"M4B 1V6",CA,Canada,"North America",Canada
+65,AW00000065,S,"Main Office","2550 Signet Drive",NULL,Weston,"ON ",Ontario,0,"M9V 4W3",CA,Canada,"North America",Canada
+66,AW00000066,S,"Main Office","6777 Kingsway",NULL,Burnaby,"BC ","British Columbia",0,"V5H 3Z7",CA,Canada,"North America",Canada
+67,AW00000067,S,"Main Office","12, rue des Grands Champs",NULL,"Verrieres Le Buisson","91 ",Essonne,0,91370,FR,France,Europe,France
+68,AW00000068,S,"Main Office","Auf Der Steige 29",NULL,Muehlheim,"HH ",Hamburg,0,63151,DE,Germany,Europe,Germany
+69,AW00000069,S,"Main Office","65 Epping Rd",NULL,"Lavender Bay",NSW,"New South Wales",0,2060,AU,Australia,Pacific,Australia
+70,AW00000070,S,"Main Office","255 Irving Street",NULL,London,ENG,England,1,"C2H 7AU",GB,"United Kingdom",Europe,"United Kingdom"
+71,AW00000071,S,"Main Office","225 Hyde Rd",NULL,Farmington,"CT ",Connecticut,0,06032,US,"United States","North America",Northeast
+72,AW00000072,S,"Main Office","6 Cotton Road",NULL,Nashua,"NH ","New Hampshire",0,03064,US,"United States","North America",Northeast
+73,AW00000073,S,"Main Office","Great Northwestern",NULL,"North Bend","WA ",Washington,0,98045,US,"United States","North America",Northwest
+74,AW00000074,S,"Main Office","Washington Square",NULL,Portland,"OR ",Oregon,0,97205,US,"United States","North America",Northwest
+75,AW00000075,S,"Main Office","Corporate Office",NULL,Garland,"TX ",Texas,0,75040,US,"United States","North America",Southwest
+76,AW00000076,S,"Main Office","25269 N. Wood Dale Rd",NULL,"Wood Dale","IL ",Illinois,0,60191,US,"United States","North America",Central
+77,AW00000077,S,"Main Office","22555 Paseo De Las Americas",NULL,"San Diego","CA ",California,0,92102,US,"United States","North America",Southwest
+78,AW00000078,S,"Main Office","Incom Sports Center",NULL,Ontario,"CA ",California,0,91764,US,"United States","North America",Southwest
+79,AW00000079,S,"Main Office","C/O Starpak, Inc.",NULL,Greeley,"CO ",Colorado,0,80631,US,"United States","North America",Central
+80,AW00000080,S,"Main Office","One Equinox Way",NULL,Sunrise,"FL ",Florida,0,33322,US,"United States","North America",Southeast
+81,AW00000081,S,"Main Office","2561 Nw 8410th Avenue",NULL,Miami,"FL ",Florida,0,33127,US,"United States","North America",Southeast
+82,AW00000082,S,"Main Office","5250-505 Burning St",NULL,Vancouver,"BC ","British Columbia",0,"V7L 4J4",CA,Canada,"North America",Canada
+83,AW00000083,S,"Main Office","600 Slater Street",NULL,Ottawa,"ON ",Ontario,0,"K4B 1S2",CA,Canada,"North America",Canada
+84,AW00000084,S,"Main Office","25575 The Queensway",NULL,Etobicoke,"ON ",Ontario,0,"M9W 3P3",CA,Canada,"North America",Canada
+85,AW00000085,S,"Main Office","121, rue de Varenne",NULL,Courbevoie,"92 ","Hauts de Seine",0,92400,FR,France,Europe,France
+86,AW00000086,S,"Main Office","Hellweg 4934",NULL,Essen,"HH ",Hamburg,0,45001,DE,Germany,Europe,Germany
+87,AW00000087,S,"Main Office","99 - 6 Orion Road",NULL,"Lane Cove",NSW,"New South Wales",0,1597,AU,Australia,Pacific,Australia
+88,AW00000088,S,"Main Office","Garamonde Drive, Wymbush","PO Box 4023","Milton Keynes",ENG,England,1,"MK8 8ZD",GB,"United Kingdom",Europe,"United Kingdom"
+89,AW00000089,S,"Main Office","5998 E Lorain",NULL,Oberlin,"OH ",Ohio,0,44074,US,"United States","North America",Northeast
+90,AW00000090,S,"Main Office","Corporate Ofc A/p","123 Fourth Ave",Chantilly,"VA ",Virginia,0,20151,US,"United States","North America",Southeast
+91,AW00000091,S,"Main Office","258101 Nw Evergreen Parkway",NULL,Beaverton,"OR ",Oregon,0,97005,US,"United States","North America",Northwest
+92,AW00000092,S,"Main Office","253950 N.E. 178th Place",NULL,Woodinville,"WA ",Washington,0,98072,US,"United States","North America",Northwest
+93,AW00000093,S,"Main Office","Sapp Road West",NULL,"Round Rock","TX ",Texas,0,78664,US,"United States","North America",Southwest
+94,AW00000094,S,"Main Office","52500 Liberty Way",NULL,"Fort Worth","TX ",Texas,0,76102,US,"United States","North America",Southwest
+95,AW00000095,S,"Main Office","5967 W Las Positas Blvd",NULL,Pleasanton,"CA ",California,0,94566,US,"United States","North America",Southwest
+96,AW00000096,S,"Main Office","25600 E St Andrews Pl",NULL,"Santa Ana","CA ",California,0,92701,US,"United States","North America",Southwest
+97,AW00000097,S,"Main Office","6756 Mowry",NULL,Newark,"CA ",California,0,94560,US,"United States","North America",Southwest
+98,AW00000098,S,"Main Office","8525 Nw 17th St.",NULL,Miami,"FL ",Florida,0,33127,US,"United States","North America",Southeast
+99,AW00000099,S,"Main Office","9876 Fruitville Rd",NULL,Sarasota,"FL ",Florida,0,34236,US,"United States","North America",Southeast
+100,AW00000100,S,"Main Office","2521 McPherson Street",NULL,Markham,"ON ",Ontario,0,"L3S 3K2",CA,Canada,"North America",Canada
+101,AW00000101,S,"Main Office","2560 Bay Street",NULL,Toronto,"ON ",Ontario,0,"M4B 1V7",CA,Canada,"North America",Canada
+102,AW00000102,S,"Main Office","630 University Avenue",NULL,Toronto,"ON ",Ontario,0,"M4B 1V7",CA,Canada,"North America",Canada
+103,AW00000103,S,"Main Office","22, rue du Départ",NULL,Pantin,"93 ","Seine Saint Denis",0,93500,FR,France,Europe,France
+104,AW00000104,S,"Main Office","Kurfürstenstr 9",NULL,Duesseldorf,"HE ",Hessen,0,40605,DE,Germany,Europe,Germany
+105,AW00000105,S,"Main Office","2565-175 Mitchell Road",NULL,Alexandria,NSW,"New South Wales",0,2015,AU,Australia,Pacific,Australia
+106,AW00000106,S,"Main Office","251 The Metro Center",NULL,Wokingham,ENG,England,1,"RG41 1QW",GB,"United Kingdom",Europe,"United Kingdom"
+107,AW00000107,S,"Main Office","58 Teed Drive",NULL,Randolph,"MA ",Massachusetts,0,02368,US,"United States","North America",Northeast
+108,AW00000108,S,"Main Office","63 Badgers Island West",NULL,Kittery,"ME ",Maine,0,03904,US,"United States","North America",Northeast
+109,AW00000109,S,"Main Office","755 Nw Grandstand",NULL,Issaquah,"WA ",Washington,0,98027,US,"United States","North America",Northwest
+110,AW00000110,S,"Main Office","22571 South 2500 East",NULL,"Idaho Falls","ID ",Idaho,0,83402,US,"United States","North America",Northwest
+111,AW00000111,S,"Main Office","25550 Executive Dr",NULL,Elgin,"IL ",Illinois,0,60120,US,"United States","North America",Central
+112,AW00000112,S,"Main Office","P.O. Box 6256916",NULL,Dallas,"TX ",Texas,0,75201,US,"United States","North America",Southwest
+113,AW00000113,S,"Main Office","25472 Marlay Ave",NULL,Fontana,"CA ",California,0,92335,US,"United States","North America",Southwest
+114,AW00000114,S,"Main Office","77 Beale Street","Room 99767c","San Francisco","CA ",California,0,94109,US,"United States","North America",Southwest
+115,AW00000115,S,"Main Office","910 Main Street.",NULL,Sparks,"NV ",Nevada,0,89431,US,"United States","North America",Northwest
+116,AW00000116,S,"Main Office","42500 West Park Drive",NULL,Atlanta,"GA ",Georgia,0,30308,US,"United States","North America",Southeast
+117,AW00000117,S,"Main Office","6055 Shawnee Industrial Way",NULL,Suwanee,"GA ",Georgia,0,30024,US,"United States","North America",Southeast
+118,AW00000118,S,"Main Office","992 St Clair Ave East",NULL,Toronto,"ON ",Ontario,0,"M4B 1V7",CA,Canada,"North America",Canada
+119,AW00000119,S,"Main Office","99, Rue Saint-pierre",NULL,Pnot-Rouge,"QC ",Quebec,0,"J1E 2T7",CA,Canada,"North America",Canada
+120,AW00000120,S,"Main Office","25245 Rue Sherbrooke Ouest",NULL,Montreal,"QC ",Quebec,0,"H1Y 2H5",CA,Canada,"North America",Canada
+121,AW00000121,S,"Main Office","6, rue des Pyrenees",NULL,"Saint Ouen","41 ","Loir et Cher",0,41100,FR,France,Europe,France
+122,AW00000122,S,"Main Office","Postfach 11 09 00",NULL,Berlin,"HE ",Hessen,0,14111,DE,Germany,Europe,Germany
+123,AW00000123,S,"Main Office","Chabbell Park",NULL,"North Ryde",NSW,"New South Wales",0,2113,AU,Australia,Pacific,Australia
+124,AW00000124,S,"Main Office",Bradford,NULL,"W. York",ENG,England,1,"BD1 4SJ",GB,"United Kingdom",Europe,"United Kingdom"
+125,AW00000125,S,"Main Office","9963 Tresser Blvd.",NULL,Stamford,"CT ",Connecticut,0,06901,US,"United States","North America",Northeast
+126,AW00000126,S,"Main Office","P.O. Box 9005",NULL,Endicott,"NY ","New York",0,13760,US,"United States","North America",Northeast
+127,AW00000127,S,"Main Office","257700 Ne 76th Street",NULL,Redmond,"WA ",Washington,0,98052,US,"United States","North America",Northwest
+128,AW00000128,S,"Main Office","25102 Springwater",NULL,Wenatchee,"WA ",Washington,0,98801,US,"United States","North America",Northwest
+129,AW00000129,S,"Main Office","25269 Wood Dale Rd.",NULL,"Wood Dale","IL ",Illinois,0,60191,US,"United States","North America",Central
+130,AW00000130,S,Shipping,"9178 Jumping St.",NULL,Dallas,"TX ",Texas,0,75201,US,"United States","North America",Southwest
+130,AW00000130,S,"Main Office","Po Box 8259024",NULL,Dallas,"TX ",Texas,0,75201,US,"United States","North America",Southwest
+131,AW00000131,S,"Main Office","2500 N Serene Blvd","19th Floor","El Segundo","CA ",California,0,90245,US,"United States","North America",Southwest
+132,AW00000132,S,"Main Office","5650 West 88th Ave.",NULL,Westminster,"CO ",Colorado,0,80030,US,"United States","North America",Central
+133,AW00000133,S,"Main Office","9700 Sisk Road",NULL,Modesto,"CA ",California,0,95354,US,"United States","North America",Southwest
+134,AW00000134,S,"Main Office","Tom Morris",NULL,Millington,"TN ",Tennessee,0,38054,US,"United States","North America",Southeast
+135,AW00000135,S,"Main Office","C/O Arrow Electronics",NULL,Memphis,"TN ",Tennessee,0,38103,US,"United States","North America",Southeast
+136,AW00000136,S,"Main Office","655-4th Ave S.W.",NULL,Calgary,"AB ",Alberta,0,"T2P 2G8",CA,Canada,"North America",Canada
+137,AW00000137,S,"Main Office","25900-700-9th Ave S.W.",NULL,Calgary,"AB ",Alberta,0,"T2P 2G8",CA,Canada,"North America",Canada
+138,AW00000138,S,"Main Office","Po Box 83270",NULL,Vancouver,"BC ","British Columbia",0,"V7L 4J4",CA,Canada,"North America",Canada
+139,AW00000139,S,"Main Office","5, place de la Concorde",NULL,Colombes,"92 ","Hauts de Seine",0,92700,FR,France,Europe,France
+140,AW00000140,S,"Main Office","Haberstr 29",NULL,Bonn,"HH ",Hamburg,0,53131,DE,Germany,Europe,Germany
+141,AW00000141,S,"Main Office","2520b Underwood Street",NULL,"Lavender Bay",NSW,"New South Wales",0,2060,AU,Australia,Pacific,Australia
+142,AW00000142,S,"Main Office",Galashiels,NULL,Scotland,ENG,England,1,"TD1 3HE",GB,"United Kingdom",Europe,"United Kingdom"
+143,AW00000143,S,"Main Office","Saltonstall Parkway",NULL,"East Haven","CT ",Connecticut,0,06512,US,"United States","North America",Northeast
+144,AW00000144,S,"Main Office","123 Union Square South",NULL,"New York","NY ","New York",0,10007,US,"United States","North America",Northeast
+145,AW00000145,S,"Main Office","Bldg. 9n/99298",NULL,Redmond,"WA ",Washington,0,98052,US,"United States","North America",Northwest
+146,AW00000146,S,"Main Office","4251 First Avenue",NULL,Seattle,"WA ",Washington,0,98104,US,"United States","North America",Northwest
+147,AW00000147,S,"Main Office","42500 W 76th St",NULL,Chicago,"IL ",Illinois,0,60610,US,"United States","North America",Central
+148,AW00000148,S,"Main Office","4255 East Lies Road",NULL,"Carol Stream","IL ",Illinois,0,60188,US,"United States","North America",Central
+149,AW00000149,S,"Main Office","789 West Alameda",NULL,Westminster,"CO ",Colorado,0,80030,US,"United States","North America",Central
+150,AW00000150,S,"Main Office","54254 Pacific Ave.",NULL,Stockton,"CA ",California,0,95202,US,"United States","North America",Southwest
+151,AW00000151,S,"Main Office","25136 Jefferson Blvd.",NULL,"Culver City","CA ",California,0,90232,US,"United States","North America",Southwest
+152,AW00000152,S,"Main Office","Park North Business Center",NULL,Clarkston,"GA ",Georgia,0,30021,US,"United States","North America",Southeast
+153,AW00000153,S,"Main Office","23456 Calumet St",NULL,Clearwater,"FL ",Florida,0,33755,US,"United States","North America",Southeast
+154,AW00000154,S,"Main Office","400-25155 West Pender St",NULL,Vancouver,"BC ","British Columbia",0,"V7L 4J4",CA,Canada,"North America",Canada
+155,AW00000155,S,"Main Office","2511 Baker Road",NULL,Toronto,"ON ",Ontario,0,"M4B 1V7",CA,Canada,"North America",Canada
+156,AW00000156,S,"Main Office","770 Notre Datme Quest Bureau 800",NULL,Montreal,"QC ",Quebec,0,"H1Y 2H7",CA,Canada,"North America",Canada
+157,AW00000157,S,"Main Office","36, avenue de la Gare",NULL,Paris,"75 ","Seine (Paris)",0,75019,FR,France,Europe,France
+158,AW00000158,S,"Main Office","Auf der Krone 53",NULL,Bonn,"NW ",Nordrhein-Westfalen,0,53131,DE,Germany,Europe,Germany
+159,AW00000159,S,"Main Office","65 Epping Road",NULL,"North Ryde",NSW,"New South Wales",0,2113,AU,Australia,Pacific,Australia
+160,AW00000160,S,"Main Office",Banbury,NULL,Oxon,ENG,England,1,"OX16 8RS",GB,"United Kingdom",Europe,"United Kingdom"
+161,AW00000161,S,"Main Office","42522 Northrupp",NULL,"Fort Wayne","IN ",Indiana,0,46807,US,"United States","North America",Northeast
+162,AW00000162,S,"Main Office","675 East Ave.",NULL,Warwick,"RI ","Rhode Island",0,02889,US,"United States","North America",Northeast
+163,AW00000163,S,"Main Office","558 S 6th St",NULL,"Klamath Falls","OR ",Oregon,0,97601,US,"United States","North America",Northwest
+164,AW00000164,S,"Main Office","994 Sw Cherry Park Rd",NULL,Troutdale,"OR ",Oregon,0,97060,US,"United States","North America",Northwest
+165,AW00000165,S,"Main Office","2500 North Stemmons Freeway",NULL,Dallas,"TX ",Texas,0,75201,US,"United States","North America",Southwest
+166,AW00000166,S,"Main Office","220 Mercy Drive",NULL,Garland,"TX ",Texas,0,75040,US,"United States","North America",Southwest
+167,AW00000167,S,"Main Office","99000 S. Avalon Blvd. Suite 750",NULL,Carson,"CA ",California,0,90746,US,"United States","North America",Southwest
+168,AW00000168,S,"Main Office","72502 Eastern Ave.",NULL,"Bell Gardens","CA ",California,0,90201,US,"United States","North America",Southwest
+169,AW00000169,S,"Main Office","2560 E. Newlands Dr",NULL,Fernley,"NV ",Nevada,0,89408,US,"United States","North America",Northwest
+170,AW00000170,S,"Main Office","6555 Quince Road, Suite 2025",NULL,Memphis,"TN ",Tennessee,0,38103,US,"United States","North America",Southeast
+171,AW00000171,S,"Main Office","2025 Greenwood Ct",NULL,Mcdonough,"GA ",Georgia,0,30253,US,"United States","North America",Southeast
+172,AW00000172,S,"Main Office","250551 Shellbridge Way",NULL,Richmond,"BC ","British Columbia",0,"V6B 3P7",CA,Canada,"North America",Canada
+173,AW00000173,S,"Main Office","595 Burning Street",NULL,Vancouver,"BC ","British Columbia",0,"V7L 4J4",CA,Canada,"North America",Canada
+174,AW00000174,S,"Main Office","252345 8810th Avenue",NULL,Surrey,"BC ","British Columbia",0,"V3T 4W3",CA,Canada,"North America",Canada
+175,AW00000175,S,"Main Office","26, rue Saint Denis",NULL,Orleans,"45 ",Loiret,0,45000,FR,France,Europe,France
+176,AW00000176,S,"Main Office","Winterfeldtstr 5557",Kreditorenbuchhaltung,Münster,"SL ",Saarland,0,48001,DE,Germany,Europe,Germany
+177,AW00000177,S,"Main Office","5525 Glenferrie Road",NULL,Hawthorne,QLD,Queensland,0,4171,AU,Australia,Pacific,Australia
+178,AW00000178,S,"Main Office",Bradford,"Raven House, Kingsgate","W. York",ENG,England,1,"BD1 4SJ",GB,"United Kingdom",Europe,"United Kingdom"
+179,AW00000179,S,"Main Office","77993 Mentor Ave.",NULL,Mentor,"OH ",Ohio,0,44060,US,"United States","North America",Northeast
+180,AW00000180,S,"Main Office","9920 North Telegraph Rd.",NULL,Pontiac,"MI ",Michigan,0,48342,US,"United States","North America",Central
+181,AW00000181,S,"Main Office","25718 Se Sunnyside Rd",NULL,Clackamas,"OR ",Oregon,0,97015-6403,US,"United States","North America",Northwest
+182,AW00000182,S,"Main Office","567 Sw Mcloughlin Blvd",NULL,Milwaukie,"OR ",Oregon,0,97222,US,"United States","North America",Northwest
+183,AW00000183,S,"Main Office","25 N State St",NULL,Chicago,"IL ",Illinois,0,60610,US,"United States","North America",Central
+184,AW00000184,S,"Main Office","2509 W. Frankford",NULL,Carrollton,"TX ",Texas,0,75006,US,"United States","North America",Southwest
+185,AW00000185,S,"Main Office","630 N. Capitol Ave.",NULL,"San Jose","CA ",California,0,95112,US,"United States","North America",Southwest
+186,AW00000186,S,"Main Office","4660 Rodeo Road",NULL,"Santa Fe","NM ","New Mexico",0,87501,US,"United States","North America",Southwest
+187,AW00000187,S,"Main Office","251340 E. South St.",NULL,Cerritos,"CA ",California,0,90703,US,"United States","North America",Southwest
+188,AW00000188,S,"Main Office","83995 South Dixie Highway",NULL,Miami,"FL ",Florida,0,33127,US,"United States","North America",Southeast
+189,AW00000189,S,"Main Office","39950 Airport Blvd.",NULL,Mobile,"AL ",Alabama,0,36602,US,"United States","North America",Southeast
+190,AW00000190,S,"Main Office","2512-410th Avenue S.W.",NULL,Calgary,"AB ",Alberta,0,"T2P 2G8",CA,Canada,"North America",Canada
+191,AW00000191,S,"Main Office","258 King Street East",NULL,Toronto,"ON ",Ontario,0,"M4B 1V7",CA,Canada,"North America",Canada
+192,AW00000192,S,"Main Office","6th Floor Ferguson Block",NULL,Toronto,"ON ",Ontario,0,"M4B 1V7",CA,Canada,"North America",Canada
+193,AW00000193,S,"Main Office","68081, place du Tertre",NULL,Colomiers,"31 ","Garonne (Haute)",0,31770,FR,France,Europe,France
+194,AW00000194,S,"Main Office","Alte Landstr 776",NULL,München,"HH ",Hamburg,0,80074,DE,Germany,Europe,Germany
+195,AW00000195,S,"Main Office","2253 Miller Street",NULL,"North Sydney",NSW,"New South Wales",0,2055,AU,Australia,Pacific,Australia
+196,AW00000196,S,"Main Office","Garamonde Drive, Wymbush","P.O. Box 803","Milton Keynes",ENG,England,1,"MK8 8ZD",GB,"United Kingdom",Europe,"United Kingdom"
+197,AW00000197,S,"Main Office","46460 West Oaks Drive",NULL,Novi,"MI ",Michigan,0,48375,US,"United States","North America",Central
+198,AW00000198,S,"Main Office","997000 Telegraph Rd.",NULL,Southfield,"MI ",Michigan,0,48034,US,"United States","North America",Central
+199,AW00000199,S,"Main Office","490 Ne 4th St",NULL,Renton,"WA ",Washington,0,98055,US,"United States","North America",Northwest
+200,AW00000200,S,"Main Office","15 East Main",NULL,"Port Orchard","WA ",Washington,0,98366,US,"United States","North America",Northwest
+201,AW00000201,S,"Main Office","Po Box 8035996",NULL,Dallas,"TX ",Texas,0,75201,US,"United States","North America",Southwest
+202,AW00000202,S,"Main Office","5700 Legacy Dr",NULL,Plano,"TX ",Texas,0,75074,US,"United States","North America",Southwest
+203,AW00000203,S,"Main Office","440 West Huntington Dr.",NULL,Monrovia,"CA ",California,0,91016,US,"United States","North America",Southwest
+204,AW00000204,S,"Main Office","99235 Hawthorne Blvd.",NULL,Torrance,"CA ",California,0,90505,US,"United States","North America",Southwest
+205,AW00000205,S,"Main Office","870 N. 54th Ave.",NULL,Chandler,"AZ ",Arizona,0,85225,US,"United States","North America",Southwest
+206,AW00000206,S,"Main Office","3990 Silas Creek Parkway",NULL,Winston-Salem,"NC ","North Carolina",0,27104,US,"United States","North America",Southeast
+207,AW00000207,S,"Main Office","956k North Wesleyan Blvd.",NULL,"Rocky Mount","NC ","North Carolina",0,27803,US,"United States","North America",Southeast
+208,AW00000208,S,"Main Office","2545 King Street West",NULL,Toronto,"ON ",Ontario,0,"M4B 1V7",CA,Canada,"North America",Canada
+209,AW00000209,S,"Main Office","2550 Middlefield Road",NULL,Scarborough,"ON ",Ontario,0,"M1V 4M2",CA,Canada,"North America",Canada
+210,AW00000210,S,"Main Office","25 First Canadian Place",NULL,Toronto,"ON ",Ontario,0,"M4B 1V5",CA,Canada,"North America",Canada
+211,AW00000211,S,"Main Office","98, rue de Terre Neuve",NULL,Lieusaint,"77 ","Seine et Marne",0,77127,FR,France,Europe,France
+212,AW00000212,S,"Main Office","Kurfürstenstr 574",NULL,München,"HE ",Hessen,0,80074,DE,Germany,Europe,Germany
+213,AW00000213,S,"Main Office","Level 100","77 Southbank Boulevard","South Melbourne",VIC,Victoria,0,3205,AU,Australia,Pacific,Australia
+214,AW00000214,S,"Main Office","Butterfield Hse, 7-251 Chapel St",NULL,Lancaster,ENG,England,1,"LA1 1LN",GB,"United Kingdom",Europe,"United Kingdom"
+215,AW00000215,S,"Main Office","25850 Post Road",NULL,Westport,"CT ",Connecticut,0,06880,US,"United States","North America",Northeast
+216,AW00000216,S,"Main Office","9975 Union St.",NULL,Waterbury,"CT ",Connecticut,0,06710,US,"United States","North America",Northeast
+217,AW00000217,S,"Main Office","3025 E Waterway Blvd",NULL,Shelton,"WA ",Washington,0,98584,US,"United States","North America",Northwest
+218,AW00000218,S,"Main Office","7990 Ocean Beach Hwy.",NULL,Longview,"WA ",Washington,0,98632,US,"United States","North America",Northwest
+219,AW00000219,S,"Main Office","625 W Jackson Blvd. Unit 2502",NULL,Chicago,"IL ",Illinois,0,60610,US,"United States","North America",Central
+220,AW00000220,S,"Main Office","250880 Baur Blvd",NULL,"Saint Louis","MO ",Missouri,0,63103,US,"United States","North America",Central
+221,AW00000221,S,"Main Office","9952 E. Lohman Ave.",NULL,"Las Cruces","NM ","New Mexico",0,88001,US,"United States","North America",Southwest
+222,AW00000222,S,"Main Office","2530 South Colorado Blvd.",NULL,Denver,"CO ",Colorado,0,80203,US,"United States","North America",Central
+222,AW00000222,S,Shipping,"2000 300th Street",NULL,Denver,"CO ",Colorado,0,80203,US,"United States","North America",Central
+223,AW00000223,S,"Main Office","955 E. County Line Rd.",NULL,Englewood,"CO ",Colorado,0,80110,US,"United States","North America",Central
+224,AW00000224,S,"Main Office","656 Cox Creek Pkwy.",NULL,Florence,"AL ",Alabama,0,35630,US,"United States","North America",Southeast
+225,AW00000225,S,"Main Office","25050 S. Columbia Ave",NULL,Campbellsville,"KY ",Kentucky,0,42718,US,"United States","North America",Southeast
+226,AW00000226,S,"Main Office","65 Gamelin Street",NULL,Hull,"QC ",Quebec,0,8Y,CA,Canada,"North America",Canada
+227,AW00000227,S,"Main Office","2500 University Avenue",NULL,Toronto,"ON ",Ontario,0,"M4B 1V5",CA,Canada,"North America",Canada
+228,AW00000228,S,"Main Office","955 Green Valley Crescent",NULL,Ottawa,"ON ",Ontario,0,"K4B 1S1",CA,Canada,"North America",Canada
+229,AW00000229,S,"Main Office","21801, rue Léo Delibes",NULL,Colombes,"92 ","Hauts de Seine",0,92700,FR,France,Europe,France
+230,AW00000230,S,"Main Office","Königsteiner Straße 9",NULL,"Bad Soden","HE ",Hessen,0,65800,DE,Germany,Europe,Germany
+231,AW00000231,S,"Main Office",Rosebery,NULL,"Lavender Bay",NSW,"New South Wales",0,2060,AU,Australia,Pacific,Australia
+232,AW00000232,S,"Main Office","Wade Road",NULL,"Basingstoke Hants",ENG,England,1,"RG24 8PL",GB,"United Kingdom",Europe,"United Kingdom"
+233,AW00000233,S,"Main Office","7505 Commercial Dr.",NULL,"New Hartford","NY ","New York",0,13413,US,"United States","North America",Northeast
+234,AW00000234,S,"Main Office","89950 Castleton Corner",NULL,Indianapolis,"IN ",Indiana,0,46204,US,"United States","North America",Northeast
+235,AW00000235,S,"Main Office","2345 West Spencer Road",NULL,Lynnwood,"WA ",Washington,0,98036,US,"United States","North America",Northwest
+236,AW00000236,S,"Main Office","1050 Oak Street",NULL,Seattle,"WA ",Washington,0,98104,US,"United States","North America",Northwest
+237,AW00000237,S,"Main Office","Noah Lane",NULL,Chicago,"IL ",Illinois,0,60610,US,"United States","North America",Central
+238,AW00000238,S,"Main Office","6030 Robinson Road",NULL,"Jefferson City","MO ",Missouri,0,65101,US,"United States","North America",Central
+239,AW00000239,S,"Main Office","409 Santa Monica Blvd.",NULL,"Santa Monica","CA ",California,0,90401,US,"United States","North America",Southwest
+240,AW00000240,S,"Main Office","Mall Of Orange",NULL,Orange,"CA ",California,0,92867,US,"United States","North America",Southwest
+241,AW00000241,S,"Main Office","Topanga Plaza",NULL,"Canoga Park","CA ",California,0,91303,US,"United States","North America",Southwest
+242,AW00000242,S,"Main Office","2545 N.W. 107th Ave.",NULL,Miami,"FL ",Florida,0,33127,US,"United States","North America",Southeast
+243,AW00000243,S,"Main Office","8789 S.W. 2517 Ave.",NULL,Kendall,"FL ",Florida,0,33143,US,"United States","North America",Southeast
+244,AW00000244,S,"Main Office","2510 Crew Court",NULL,Montreal,"QC ",Quebec,0,"H1Y 2H8",CA,Canada,"North America",Canada
+245,AW00000245,S,"Main Office","9900-6400 Boul, Taschereau",NULL,Brossard,"QC ",Quebec,0,"J4Z 1R4",CA,Canada,"North America",Canada
+246,AW00000246,S,"Main Office","600 Boul. Rene-levesque Ouest",NULL,Montreal,"QC ",Quebec,0,"H1Y 2H7",CA,Canada,"North America",Canada
+247,AW00000247,S,"Main Office","2111, rue de Linois",NULL,Orly,"94 ","Val de Marne",0,94310,FR,France,Europe,France
+248,AW00000248,S,"Main Office","Werftstr 4400",NULL,"Sulzbach Taunus","SL ",Saarland,0,66272,DE,Germany,Europe,Germany
+249,AW00000249,S,"Main Office","Licensing Account",NULL,Seaford,VIC,Victoria,0,3198,AU,Australia,Pacific,Australia
+250,AW00000250,S,"Main Office","586 Fulham Road,",NULL,London,ENG,England,1,"SW6 SBY",GB,"United Kingdom",Europe,"United Kingdom"
+251,AW00000251,S,"Main Office","99200 Dixwell Ave.",NULL,Hamden,"CT ",Connecticut,0,06518,US,"United States","North America",Northeast
+252,AW00000252,S,"Main Office","630 Oldgate Lane",NULL,Milford,"CT ",Connecticut,0,06460,US,"United States","North America",Northeast
+253,AW00000253,S,"Main Office","4927 S Meridian Ave Ste D",NULL,Puyallup,"WA ",Washington,0,98371,US,"United States","North America",Northwest
+254,AW00000254,S,Shipping,"2681 Eagle Peak",NULL,Bellevue,"WA ",Washington,0,98004,US,"United States","North America",Northwest
+254,AW00000254,S,"Main Office","25915 140th Ave Ne",NULL,Bellevue,"WA ",Washington,0,98004,US,"United States","North America",Northwest
+255,AW00000255,S,"Main Office","25500 Old Spanish Trail",NULL,Houston,"TX ",Texas,0,77003,US,"United States","North America",Southwest
+256,AW00000256,S,"Main Office","99828 Routh Street, Suite 825",NULL,Dallas,"TX ",Texas,0,75201,US,"United States","North America",Southwest
+257,AW00000257,S,"Main Office",Escondido,NULL,Escondido,"CA ",California,0,92025,US,"United States","North America",Southwest
+258,AW00000258,S,"Main Office","Natomas Marketplace",NULL,Sacramento,"CA ",California,0,95814,US,"United States","North America",Southwest
+259,AW00000259,S,"Main Office","Simi @ The Plaza",NULL,"Simi Valley","CA ",California,0,93065,US,"United States","North America",Southwest
+260,AW00000260,S,"Main Office","825 Coral Way",NULL,Miami,"FL ",Florida,0,33127,US,"United States","North America",Southeast
+261,AW00000261,S,"Main Office","650 E Altamonte Dr",NULL,"Altamonte Springs","FL ",Florida,0,32701,US,"United States","North America",Southeast
+262,AW00000262,S,"Main Office","9259 - 1110th Avenue Sw",NULL,Calgary,"AB ",Alberta,0,"T2P 2G8",CA,Canada,"North America",Canada
+263,AW00000263,S,"Main Office","45259 Canada Way",NULL,Burnaby,"BC ","British Columbia",0,"V5G 4S4",CA,Canada,"North America",Canada
+264,AW00000264,S,"Main Office","9960 King Street E.",NULL,Toronto,"ON ",Ontario,0,"M4B 1V5",CA,Canada,"North America",Canada
+265,AW00000265,S,"Main Office","39, route de Marseille",NULL,Paris,"75 ","Seine (Paris)",0,75016,FR,France,Europe,France
+266,AW00000266,S,"Main Office","Hans-Rosenthal-Platz 4223",NULL,Grevenbroich,"BY ",Bayern,0,41485,DE,Germany,Europe,Germany
+267,AW00000267,S,"Main Office","Level 99","12 South 10th Avenue",Melbourne,VIC,Victoria,0,3000,AU,Australia,Pacific,Australia
+268,AW00000268,S,"Main Office","Knaves Beech Ind.",NULL,"High Wycombe",ENG,England,1,"HP10 9QY",GB,"United Kingdom",Europe,"United Kingdom"
+269,AW00000269,S,"Main Office","25264 E. 260th",NULL,Euclid,"OH ",Ohio,0,44119,US,"United States","North America",Northeast
+270,AW00000270,S,"Main Office","225200 Miles Ave.",NULL,"North Randall","OH ",Ohio,0,44128,US,"United States","North America",Northeast
+271,AW00000271,S,"Main Office","3307 Evergreen Blvd","Ste 1071",Washougal,"WA ",Washington,0,98671,US,"United States","North America",Northwest
+272,AW00000272,S,"Main Office","2507 Pacific Ave S",NULL,Tacoma,"WA ",Washington,0,98403,US,"United States","North America",Northwest
+273,AW00000273,S,"Main Office","One Dancing, Rr No. 25","Box 8033","Round Rock","TX ",Texas,0,78664,US,"United States","North America",Southwest
+274,AW00000274,S,"Main Office","9995 West Central Entrance",NULL,Duluth,"MN ",Minnesota,0,55802,US,"United States","North America",Central
+275,AW00000275,S,"Main Office","Lakewood Mall",NULL,Lakewood,"CA ",California,0,90712,US,"United States","North America",Southwest
+276,AW00000276,S,"Main Office","Oxnard Outlet",NULL,Oxnard,"CA ",California,0,93030,US,"United States","North America",Southwest
+277,AW00000277,S,"Main Office","Vista Marketplace",NULL,Alhambra,"CA ",California,0,91801,US,"United States","North America",Southwest
+278,AW00000278,S,Shipping,"9707 Coldwater Drive",NULL,Orlando,"FL ",Florida,0,32804,US,"United States","North America",Southeast
+278,AW00000278,S,"Main Office","25631 Florida Mall Ave.",NULL,Orlando,"FL ",Florida,0,32804,US,"United States","North America",Southeast
+279,AW00000279,S,"Main Office","770 South Point Dr",NULL,Memphis,"TN ",Tennessee,0,38103,US,"United States","North America",Southeast
+280,AW00000280,S,"Main Office","9979 Bayview Drive",NULL,Barrie,"ON ",Ontario,0,L4N,CA,Canada,"North America",Canada
+281,AW00000281,S,"Main Office","20225 Lansing Ave",NULL,Montreal,"QC ",Quebec,0,"H1Y 2H7",CA,Canada,"North America",Canada
+282,AW00000282,S,"Main Office","99954 Boul. Laurier, Local 060, Place",NULL,Sainte-Foy,"QC ",Quebec,0,G1W,CA,Canada,"North America",Canada
+283,AW00000283,S,"Main Office","57, rue des Vendangeurs",NULL,"Roissy en Brie","77 ","Seine et Marne",0,77680,FR,France,Europe,France
+284,AW00000284,S,"Main Office","Nonnendamm 63",NULL,Berlin,"NW ",Nordrhein-Westfalen,0,14197,DE,Germany,Europe,Germany
+285,AW00000285,S,"Main Office","Ctrcrt Bus Pk/995-27 Paul St N",NULL,"North Ryde",NSW,"New South Wales",0,2113,AU,Australia,Pacific,Australia
+286,AW00000286,S,"Main Office","Elmhurst Road, Goring",NULL,Reading,ENG,England,1,"RG7 5H7",GB,"United Kingdom",Europe,"United Kingdom"
+287,AW00000287,S,"Main Office","399700 John R. Rd.",NULL,"Madison Heights","MI ",Michigan,0,48071,US,"United States","North America",Central
+288,AW00000288,S,"Main Office","6789 Warren Road",NULL,Westland,"MI ",Michigan,0,48185,US,"United States","North America",Central
+289,AW00000289,S,"Main Office","67 Rainer Ave S",NULL,Renton,"WA ",Washington,0,98055,US,"United States","North America",Northwest
+290,AW00000290,S,"Main Office","750 Lakeway Dr",NULL,Bellingham,"WA ",Washington,0,98225,US,"United States","North America",Northwest
+291,AW00000291,S,"Main Office","48255 I-10 E. @ Eastpoint Blvd.",NULL,Baytown,"TX ",Texas,0,77520,US,"United States","North America",Southwest
+292,AW00000292,S,"Main Office","9903 Highway 6 South",NULL,Houston,"TX ",Texas,0,77003,US,"United States","North America",Southwest
+293,AW00000293,S,"Main Office","Sports Store At Park City",NULL,"Park City","UT ",Utah,0,84098,US,"United States","North America",Northwest
+294,AW00000294,S,"Main Office","North County Square",NULL,Vista,"CA ",California,0,92084,US,"United States","North America",Southwest
+295,AW00000295,S,"Main Office","123 Camelia Avenue",NULL,Oxnard,"CA ",California,0,93030,US,"United States","North America",Southwest
+296,AW00000296,S,"Main Office","7725 Luddington Lane",NULL,Birmingham,"AL ",Alabama,0,35203,US,"United States","North America",Southeast
+297,AW00000297,S,"Main Office","790 Shelbyville Road",NULL,"Saint Matthews","KY ",Kentucky,0,40207,US,"United States","North America",Southeast
+298,AW00000298,S,"Main Office","6th Floor 5250 Main Street",NULL,Winnipeg,"MB ",Manitoba,0,R3,CA,Canada,"North America",Canada
+299,AW00000299,S,"Main Office","Box 99354 300 Union Street",NULL,"Saint John","NB ",Brunswick,0,"E2P 1E3",CA,Canada,"North America",Canada
+300,AW00000300,S,"Main Office","Suite 800 2530 Slater Street",NULL,Ottawa,"ON ",Ontario,0,"K4B 1T7",CA,Canada,"North America",Canada
+301,AW00000301,S,"Main Office","98, rue Montcalm",NULL,Paris,"75 ","Seine (Paris)",0,75019,FR,France,Europe,France
+302,AW00000302,S,"Main Office","Berliner Platz 45",NULL,Offenbach,"SL ",Saarland,0,63009,DE,Germany,Europe,Germany
+303,AW00000303,S,"Main Office","2501 Miller Street",NULL,"North Sydney",NSW,"New South Wales",0,2055,AU,Australia,Pacific,Australia
+304,AW00000304,S,"Main Office","New Millhouse, 2583 Milton Park",NULL,Abingdon,ENG,England,1,"OX14 4SE",GB,"United Kingdom",Europe,"United Kingdom"
+305,AW00000305,S,"Main Office","42500 South Franklin Street",NULL,"Michigan City","IN ",Indiana,0,46360,US,"United States","North America",Northeast
+306,AW00000306,S,"Main Office","2533 Eureka Rd.",NULL,Southgate,"MI ",Michigan,0,48195,US,"United States","North America",Central
+307,AW00000307,S,"Main Office","2528 Meridian E",NULL,Puyallup,"WA ",Washington,0,98371,US,"United States","North America",Northwest
+308,AW00000308,S,"Main Office","48995 Evergreen Wy.",NULL,Everett,"WA ",Washington,0,98201,US,"United States","North America",Northwest
+309,AW00000309,S,"Main Office","2345 North Freeway",NULL,Houston,"TX ",Texas,0,77003,US,"United States","North America",Southwest
+310,AW00000310,S,"Main Office","123 W. Lake Ave.",NULL,Peoria,"IL ",Illinois,0,61606,US,"United States","North America",Central
+311,AW00000311,S,"Main Office","Mountain Square",NULL,Upland,"CA ",California,0,91786,US,"United States","North America",Southwest
+312,AW00000312,S,"Main Office","Fox Hills",NULL,"Culver City","CA ",California,0,90232,US,"United States","North America",Southwest
+313,AW00000313,S,"Main Office","Parkway Plaza",NULL,"El Cajon","CA ",California,0,92020,US,"United States","North America",Southwest
+314,AW00000314,S,"Main Office","4496 Barnes Crossing Rd.",NULL,Tupelo,"MS ",Mississippi,0,38804,US,"United States","North America",Southeast
+315,AW00000315,S,"Main Office","78025 E. Mercy Island Cswy",NULL,"Merritt Island","FL ",Florida,0,32952,US,"United States","North America",Southeast
+316,AW00000316,S,"Main Office","Suite 500 995 W. 11th Avenue",NULL,Mississauga,"ON ",Ontario,0,"L5A 1H6",CA,Canada,"North America",Canada
+317,AW00000317,S,"Main Office","#9900 2700 Production Way",NULL,Burnaby,"BC ","British Columbia",0,"V5A 4X1",CA,Canada,"North America",Canada
+318,AW00000318,S,"Main Office","25537 Hillside Avenue",NULL,Victoria,"BC ","British Columbia",0,V8V,CA,Canada,"North America",Canada
+319,AW00000319,S,"Main Office","3387, rue Marbeuf",NULL,Bobigny,"93 ","Seine Saint Denis",0,93000,FR,France,Europe,France
+320,AW00000320,S,"Main Office","Brunnenstr 422",NULL,"Frankfurt am Main","HH ",Hamburg,0,60082,DE,Germany,Europe,Germany
+321,AW00000321,S,"Main Office","6 Lord Street",NULL,Matraville,NSW,"New South Wales",0,2036,AU,Australia,Pacific,Australia
+322,AW00000322,S,"Main Office",Wymbush,NULL,"Milton Keynes",ENG,England,1,"MK8 8DF",GB,"United Kingdom",Europe,"United Kingdom"
+323,AW00000323,S,"Main Office","250000 Eight Mile Road",NULL,Detroit,"MI ",Michigan,0,48226,US,"United States","North America",Central
+324,AW00000324,S,"Main Office","6405 Erie Blvd. Hills Plaza",NULL,"De Witt","NY ","New York",0,13214,US,"United States","North America",Northeast
+325,AW00000325,S,Shipping,"8713 Yosemite Ct.",NULL,Bothell,"WA ",Washington,0,98011,US,"United States","North America",Northwest
+325,AW00000325,S,"Main Office","25111 228th St Sw",NULL,Bothell,"WA ",Washington,0,98011,US,"United States","North America",Northwest
+326,AW00000326,S,"Main Office","2583 Se 272nd St",NULL,Kent,"WA ",Washington,0,98031,US,"United States","North America",Northwest
+327,AW00000327,S,"Main Office","660 Lindbergh",NULL,"Saint Louis","MO ",Missouri,0,63103,US,"United States","North America",Central
+328,AW00000328,S,"Main Office","72540 Blanco Rd.",NULL,"San Antonio","TX ",Texas,0,78204,US,"United States","North America",Southwest
+329,AW00000329,S,"Main Office","Stonewood Mall",NULL,Downey,"CA ",California,0,90241,US,"United States","North America",Southwest
+330,AW00000330,S,"Main Office","Hanford Mall",NULL,Hanford,"CA ",California,0,93230,US,"United States","North America",Southwest
+331,AW00000331,S,"Main Office","Ontario Mills",NULL,Ontario,"CA ",California,0,91764,US,"United States","North America",Southwest
+332,AW00000332,S,"Main Office","574 Atlanta Highway",NULL,Montgomery,"AL ",Alabama,0,36104,US,"United States","North America",Southeast
+333,AW00000333,S,"Main Office","5230a Hwy. 2553",NULL,Hixson,"TN ",Tennessee,0,37343,US,"United States","North America",Southeast
+334,AW00000334,S,"Main Office","Suite 2502 410 Albert Street",NULL,Waterloo,"ON ",Ontario,0,N2V,CA,Canada,"North America",Canada
+335,AW00000335,S,"Main Office","5700 Explorer Drive",NULL,Mississauga,"ON ",Ontario,0,"L4W 5J3",CA,Canada,"North America",Canada
+336,AW00000336,S,"Main Office","965 De La Gauchetiere West",NULL,Montreal,"QC ",Quebec,0,"H1Y 2H8",CA,Canada,"North America",Canada
+337,AW00000337,S,"Main Office","39, avenue des Laurentides",NULL,"Paris La Defense","92 ","Hauts de Seine",0,92081,FR,France,Europe,France
+338,AW00000338,S,"Main Office","Rotthäuser Weg 511",NULL,Stuttgart,"SL ",Saarland,0,70511,DE,Germany,Europe,Germany
+339,AW00000339,S,"Main Office","Level 6","538 Climbing Street",Matraville,NSW,"New South Wales",0,2036,AU,Australia,Pacific,Australia
+340,AW00000340,S,"Main Office","Burgess Hill","Edward Way","West Sussex",ENG,England,1,"RH15 9UD",GB,"United Kingdom",Europe,"United Kingdom"
+341,AW00000341,S,"Main Office","Great Northern Mall Hwy4 & Rt. 31",NULL,Clay,"NY ","New York",0,13041,US,"United States","North America",Northeast
+342,AW00000342,S,"Main Office","250 E. County Line Rd.",NULL,Indianapolis,"IN ",Indiana,0,46204,US,"United States","North America",Northeast
+343,AW00000343,S,"Main Office","409 S. Main Ste. 25",NULL,Ellensburg,"WA ",Washington,0,98926,US,"United States","North America",Northwest
+344,AW00000344,S,"Main Office","2502 Evergreen Ste E",NULL,Everett,"WA ",Washington,0,98201,US,"United States","North America",Northwest
+345,AW00000345,S,"Main Office","99450 Highway 59 North",NULL,Humble,"TX ",Texas,0,77338,US,"United States","North America",Southwest
+346,AW00000346,S,"Main Office","455 256th St.",NULL,Moline,"IL ",Illinois,0,61265,US,"United States","North America",Central
+347,AW00000347,S,"Main Office","Nut Tree Factory",NULL,Vacaville,"CA ",California,0,95688,US,"United States","North America",Southwest
+348,AW00000348,S,"Main Office","Rocky Mountain Pines Outlet",NULL,Loveland,"CO ",Colorado,0,80537,US,"United States","North America",Central
+349,AW00000349,S,"Main Office","Stevens Creek Shopping Center",NULL,"San Jose","CA ",California,0,95112,US,"United States","North America",Southwest
+350,AW00000350,S,"Main Office","25800 Gallitin Rd.",NULL,Nashville,"TN ",Tennessee,0,37203,US,"United States","North America",Southeast
+351,AW00000351,S,"Main Office","830 Highway 499 So",NULL,Mcdonough,"GA ",Georgia,0,30253,US,"United States","North America",Southeast
+352,AW00000352,S,"Main Office","No. 25400 10665 Jasper Avenue",NULL,Edmonton,"AB ",Alberta,0,T5,CA,Canada,"North America",Canada
+353,AW00000353,S,"Main Office","P.O. Box 44000",NULL,Winnipeg,"MB ",Manitoba,0,R3,CA,Canada,"North America",Canada
+354,AW00000354,S,"Main Office","Suite 99320 255 - 510th Avenue S.W.",NULL,Calgary,"AB ",Alberta,0,"T2P 2G8",CA,Canada,"North America",Canada
+355,AW00000355,S,"Main Office","3101, avenue de Malakoff",NULL,Paris,"75 ","Seine (Paris)",0,75003,FR,France,Europe,France
+356,AW00000356,S,"Main Office","Am Karlshof 8200",NULL,Hamburg,"HE ",Hessen,0,22001,DE,Germany,Europe,Germany
+357,AW00000357,S,"Main Office","P.O. Box 990032",NULL,Findon,"SA ","South Australia",0,5023,AU,Australia,Pacific,Australia
+358,AW00000358,S,"Main Office","308-3250 Casting Road",NULL,York,ENG,England,1,"Y024 1GF",GB,"United Kingdom",Europe,"United Kingdom"
+359,AW00000359,S,"Main Office","6225 Glenway Ave.",NULL,Cincinnati,"OH ",Ohio,0,45202,US,"United States","North America",Northeast
+360,AW00000360,S,"Main Office","998 Forest Road",NULL,Saginaw,"MI ",Michigan,0,48601,US,"United States","North America",Central
+361,AW00000361,S,"Main Office","755 W Washington Ave Ste D",NULL,Sequim,"WA ",Washington,0,98382,US,"United States","North America",Northwest
+362,AW00000362,S,"Main Office","44606 N Division St",NULL,Spokane,"WA ",Washington,0,99202,US,"United States","North America",Northwest
+363,AW00000363,S,"Main Office","70 N.W. Plaza",NULL,"Saint Ann","MO ",Missouri,0,63074,US,"United States","North America",Central
+364,AW00000364,S,"Main Office","25095 W. Florissant",NULL,Ferguson,"MO ",Missouri,0,63135,US,"United States","North America",Central
+365,AW00000365,S,"Main Office","Factory Merchants",NULL,Barstow,"CA ",California,0,92311,US,"United States","North America",Southwest
+366,AW00000366,S,"Main Office","The Citadel Commerce Plaza",NULL,"City Of Commerce","CA ",California,0,90040,US,"United States","North America",Southwest
+367,AW00000367,S,"Main Office","University Town Center",NULL,"San Diego","CA ",California,0,92102,US,"United States","North America",Southwest
+368,AW00000368,S,"Main Office","99842 White Mill East",NULL,Decatur,"GA ",Georgia,0,30030,US,"United States","North America",Southeast
+369,AW00000369,S,"Main Office","Turfway Retail Center",NULL,Florence,"KY ",Kentucky,0,41042,US,"United States","North America",Southeast
+370,AW00000370,S,"Main Office","6400, 888 - 3rd Avenue",NULL,Calgary,"AB ",Alberta,0,"T2P 2G8",CA,Canada,"North America",Canada
+371,AW00000371,S,"Main Office","255117 - 101 Avenue",NULL,Surrey,"BC ","British Columbia",0,"V3T 4W3",CA,Canada,"North America",Canada
+372,AW00000372,S,"Main Office","975 Princess Street",NULL,Kingston,"ON ",Ontario,0,7L,CA,Canada,"North America",Canada
+373,AW00000373,S,"Main Office","61, rue Henri Gagnon",NULL,"Les Ulis","91 ",Essonne,0,91940,FR,France,Europe,France
+374,AW00000374,S,"Main Office","Holzstr 6444",NULL,Salzgitter,"HE ",Hessen,0,38231,DE,Germany,Europe,Germany
+375,AW00000375,S,"Main Office","P O Box 72569",NULL,"East Brisbane",QLD,Queensland,0,4169,AU,Australia,Pacific,Australia
+376,AW00000376,S,"Main Office","Wharfdale Road",NULL,Berkshire,ENG,England,1,"RG11 5TP",GB,"United Kingdom",Europe,"United Kingdom"
+377,AW00000377,S,"Main Office","99800 Tittabawasee Rd.",NULL,Saginaw,"MI ",Michigan,0,48601,US,"United States","North America",Central
+378,AW00000378,S,"Main Office","25192 Princeton Rd.",NULL,Springdale,"OH ",Ohio,0,45246,US,"United States","North America",Northeast
+379,AW00000379,S,"Main Office","2550 Ne Sandy Blvd",NULL,Portland,"OR ",Oregon,0,97205,US,"United States","North America",Northwest
+380,AW00000380,S,"Main Office","2540 Dell Range Blvd",NULL,Cheyenne,"WY ",Wyoming,0,82001,US,"United States","North America",Northwest
+381,AW00000381,S,"Main Office","6996 South Lindbergh",NULL,"Saint Louis","MO ",Missouri,0,63103,US,"United States","North America",Central
+382,AW00000382,S,"Main Office","6425 Nw Loop 410",NULL,"San Antonio","TX ",Texas,0,78204,US,"United States","North America",Southwest
+383,AW00000383,S,"Main Office","Pavillion @ Redlands",NULL,Redlands,"CA ",California,0,92373,US,"United States","North America",Southwest
+384,AW00000384,S,"Main Office","San Diego Factory",NULL,"San Ysidro","CA ",California,0,92173,US,"United States","North America",Southwest
+385,AW00000385,S,"Main Office","Pacific West Outlet",NULL,Gilroy,"CA ",California,0,95020,US,"United States","North America",Southwest
+386,AW00000386,S,"Main Office","25 Myrtle Beach",NULL,"Myrtle Beach","SC ","South Carolina",0,29577,US,"United States","North America",Southeast
+387,AW00000387,S,"Main Office","Parkway City Mall",NULL,Huntsville,"AL ",Alabama,0,35801,US,"United States","North America",Southeast
+388,AW00000388,S,"Main Office","2900 - 25055 Dunning Street",NULL,Vancouver,"BC ","British Columbia",0,"V7L 4J4",CA,Canada,"North America",Canada
+389,AW00000389,S,"Main Office","Suite 25800 3401 - 10810th Avenue",NULL,Surrey,"BC ","British Columbia",0,"V3T 4W3",CA,Canada,"North America",Canada
+390,AW00000390,S,"Main Office","750 Philip Street",NULL,Waterloo,"ON ",Ontario,0,N2V,CA,Canada,"North America",Canada
+391,AW00000391,S,"Main Office","9005, rue des Bouchers",NULL,Paris,"75 ","Seine (Paris)",0,75005,FR,France,Europe,France
+392,AW00000392,S,"Main Office","Am Grossen Dern 982",NULL,Hamburg,"HH ",Hamburg,0,20354,DE,Germany,Europe,Germany
+393,AW00000393,S,"Main Office","2nd Floor","55 Lavender Street","Milsons Point",NSW,"New South Wales",0,2061,AU,Australia,Pacific,Australia
+394,AW00000394,S,"Main Office","7 Pioneer Business Park",NULL,York,ENG,England,1,"Y03 4TN",GB,"United Kingdom",Europe,"United Kingdom"
+395,AW00000395,S,"Main Office","678 Eastman Ave.",NULL,Midland,"MI ",Michigan,0,48640,US,"United States","North America",Central
+396,AW00000396,S,"Main Office","New Castle Plaza",NULL,"New Castle","IN ",Indiana,0,47362,US,"United States","North America",Northeast
+397,AW00000397,S,"Main Office","765 Delridge Way Sw",NULL,Seattle,"WA ",Washington,0,98104,US,"United States","North America",Northwest
+398,AW00000398,S,"Main Office","4781 Highway 95",NULL,Sandpoint,"ID ",Idaho,0,83864,US,"United States","North America",Northwest
+399,AW00000399,S,"Main Office","9500b E. Central Texas Expressway",NULL,Killeen,"TX ",Texas,0,76541,US,"United States","North America",Southwest
+400,AW00000400,S,"Main Office","1200 First Ave.",NULL,Joliet,"IL ",Illinois,0,60433,US,"United States","North America",Central
+401,AW00000401,S,"Main Office","Belz Factory Outlet",NULL,"Las Vegas","NV ",Nevada,0,89106,US,"United States","North America",Northwest
+402,AW00000402,S,"Main Office","Camarillo Athletic Stores",NULL,Camarillo,"CA ",California,0,93010,US,"United States","North America",Southwest
+403,AW00000403,S,"Main Office","Lake Elisnor Place",NULL,"Lake Elsinore","CA ",California,0,92530,US,"United States","North America",Southwest
+404,AW00000404,S,"Main Office","Factory Stores Of America",NULL,Crossville,"TN ",Tennessee,0,38555,US,"United States","North America",Southeast
+405,AW00000405,S,"Main Office","Fort Henry Mall",NULL,Kingsport,"TN ",Tennessee,0,37660,US,"United States","North America",Southeast
+406,AW00000406,S,"Main Office","Bureau 9900 825, Avenue Querbes",NULL,Outremont,"QC ",Quebec,0,"H1Y 2G5",CA,Canada,"North America",Canada
+407,AW00000407,S,"Main Office","700 Bureau Road",NULL,Montreal,"QC ",Quebec,0,"H1Y 2H7",CA,Canada,"North America",Canada
+408,AW00000408,S,"Main Office","253711 Mayfield Place, Unit 150",NULL,Richmond,"BC ","British Columbia",0,"V6B 3P7",CA,Canada,"North America",Canada
+409,AW00000409,S,"Main Office","18, rue de l´Esplanade",NULL,"Aujan Mournede","32 ",Gers,0,32300,FR,France,Europe,France
+410,AW00000410,S,"Main Office","Conesweg 49",NULL,Kiel,"SL ",Saarland,0,24044,DE,Germany,Europe,Germany
+411,AW00000411,S,"Main Office","258 Berry Street",NULL,"North Sydney",NSW,"New South Wales",0,2055,AU,Australia,Pacific,Australia
+412,AW00000412,S,"Main Office","Unit 99a Battery Retail Pk",NULL,Birmingham,ENG,England,1,"B29 6SL",GB,"United Kingdom",Europe,"United Kingdom"
+413,AW00000413,S,"Main Office","Woodbury Commons",NULL,"Central Valley","NY ","New York",0,10917,US,"United States","North America",Northeast
+414,AW00000414,S,"Main Office","Indiana Factory Shops",NULL,Daleville,"IN ",Indiana,0,47334,US,"United States","North America",Northeast
+415,AW00000415,S,"Main Office","4210 E Sprague Ave",NULL,Spokane,"WA ",Washington,0,99202,US,"United States","North America",Northwest
+416,AW00000416,S,"Main Office","Valley Mall",NULL,"Union Gap","WA ",Washington,0,98903,US,"United States","North America",Northwest
+417,AW00000417,S,"Main Office","7760 N. Pan Am Expwy",NULL,"San Antonio","TX ",Texas,0,78204,US,"United States","North America",Southwest
+418,AW00000418,S,"Main Office","99433 S. Greenbay Rd.",NULL,Racine,"WI ",Wisconsin,0,53182,US,"United States","North America",Central
+419,AW00000419,S,"Main Office","Norwalk Square",NULL,Norwalk,"CA ",California,0,90650,US,"United States","North America",Southwest
+420,AW00000420,S,"Main Office",Riverside,NULL,"Sherman Oaks","CA ",California,0,91403,US,"United States","North America",Southwest
+421,AW00000421,S,"Main Office","The Quad @ WestView",NULL,Whittier,"CA ",California,0,90605,US,"United States","North America",Southwest
+422,AW00000422,S,"Main Office","Carolina Factory Shops",NULL,Gaffney,"SC ","South Carolina",0,29340,US,"United States","North America",Southeast
+423,AW00000423,S,"Main Office","Edgewater Mall",NULL,Biloxi,"MS ",Mississippi,0,39530,US,"United States","North America",Southeast
+424,AW00000424,S,"Main Office","63 West Beaver Creek",NULL,"Richmond Hill","ON ",Ontario,0,"L4E 3M5",CA,Canada,"North America",Canada
+425,AW00000425,S,"Main Office","9900 Ronson Drive",NULL,Etobicoke,"ON ",Ontario,0,"M9W 3P3",CA,Canada,"North America",Canada
+426,AW00000426,S,"Main Office","251 Indell Lane",NULL,Brampton,"ON ",Ontario,0,"L6W 2T7",CA,Canada,"North America",Canada
+427,AW00000427,S,"Main Office","7551, avenue Foch",NULL,Paris,"75 ","Seine (Paris)",0,75010,FR,France,Europe,France
+428,AW00000428,S,"Main Office","Krönerweg 9249",NULL,Hannover,"NW ",Nordrhein-Westfalen,0,30601,DE,Germany,Europe,Germany
+429,AW00000429,S,"Main Office","85 Egerton Street",NULL,Silverwater,NSW,"New South Wales",0,2264,AU,Australia,Pacific,Australia
+430,AW00000430,S,"Main Office","Ellesfield Ave",NULL,Bracknell,ENG,England,1,"RG12 8TB",GB,"United Kingdom",Europe,"United Kingdom"
+431,AW00000431,S,"Main Office","Horizon Outlet Center",NULL,Holland,"MI ",Michigan,0,49423,US,"United States","North America",Central
+432,AW00000432,S,"Main Office","Washington Square Ii",NULL,Indianapolis,"IN ",Indiana,0,46204,US,"United States","North America",Northeast
+433,AW00000433,S,"Main Office","S Sound Ctr Suite 25300",NULL,Lacey,"WA ",Washington,0,98503,US,"United States","North America",Northwest
+434,AW00000434,S,"Main Office","Southgate Mall",NULL,Missoula,"MT ",Montana,0,59801,US,"United States","North America",Northwest
+435,AW00000435,S,"Main Office","25220 Airline Road",NULL,"Corpus Christi","TX ",Texas,0,78404,US,"United States","North America",Southwest
+436,AW00000436,S,"Main Office","25306 Harvey Rd.",NULL,"College Station","TX ",Texas,0,77840,US,"United States","North America",Southwest
+437,AW00000437,S,"Main Office","Arcadia Crossing",NULL,Phoenix,"AZ ",Arizona,0,85004,US,"United States","North America",Southwest
+438,AW00000438,S,"Main Office","Eastern Beltway Center",NULL,"Las Vegas","NV ",Nevada,0,89106,US,"United States","North America",Northwest
+439,AW00000439,S,"Main Office","Factory Stores/tucson",NULL,Tucson,"AZ ",Arizona,0,85701,US,"United States","North America",Southwest
+440,AW00000440,S,"Main Office","Highland Lakes Shopping Ctr.",NULL,Orlando,"FL ",Florida,0,32804,US,"United States","North America",Southeast
+441,AW00000441,S,"Main Office","Grand Central Place",NULL,Somerset,"KY ",Kentucky,0,42501,US,"United States","North America",Southeast
+442,AW00000442,S,"Main Office","2573 Dufferin Street",NULL,Toronto,"ON ",Ontario,0,"M4B 1V5",CA,Canada,"North America",Canada
+443,AW00000443,S,"Main Office","995 Crescent",NULL,"Richmond Hill","ON ",Ontario,0,"L4E 3M5",CA,Canada,"North America",Canada
+444,AW00000444,S,"Main Office","2500-622 5th Ave Sw",NULL,Calgary,"AB ",Alberta,0,"T2P 2G8",CA,Canada,"North America",Canada
+445,AW00000445,S,"Main Office","22, rue Lafayette",NULL,Pantin,"93 ","Seine Saint Denis",0,93500,FR,France,Europe,France
+446,AW00000446,S,"Main Office","Auf Der Steige 1000",NULL,Berlin,"HH ",Hamburg,0,14111,DE,Germany,Europe,Germany
+447,AW00000447,S,"Main Office","Po Box 25484",NULL,Springwood,NSW,"New South Wales",0,2777,AU,Australia,Pacific,Australia
+448,AW00000448,S,"Main Office","Warrington Ldc Unit 25/2",NULL,Woolston,ENG,England,1,"WA1 4SY",GB,"United Kingdom",Europe,"United Kingdom"
+449,AW00000449,S,"Main Office","Regency Hilltop Shopping Cntr",NULL,"Virginia Beach","VA ",Virginia,0,23451,US,"United States","North America",Southeast
+450,AW00000450,S,"Main Office","Ames Plaza",NULL,Saugus,"MA ",Massachusetts,0,01906,US,"United States","North America",Northeast
+451,AW00000451,S,"Main Office",Medford,NULL,Medford,"OR ",Oregon,0,97504,US,"United States","North America",Northwest
+452,AW00000452,S,"Main Office","Heritage Mall",NULL,Albany,"OR ",Oregon,0,97321,US,"United States","North America",Northwest
+453,AW00000453,S,"Main Office","3900 S. 997th St.",NULL,Milwaukee,"WI ",Wisconsin,0,53202,US,"United States","North America",Central
+454,AW00000454,S,"Main Office","44025 W. Empire",NULL,Denby,"SD ","South Dakota",0,57716,US,"United States","North America",Central
+455,AW00000455,S,"Main Office","Viejas Outlet Center",NULL,Alpine,"CA ",California,0,91901,US,"United States","North America",Southwest
+456,AW00000456,S,"Main Office","West Park Plaza",NULL,Irvine,"CA ",California,0,92614,US,"United States","North America",Southwest
+457,AW00000457,S,"Main Office","Factory Stores Of America",NULL,Mesa,"AZ ",Arizona,0,85201,US,"United States","North America",Southwest
+458,AW00000458,S,"Main Office","Silver Sands Factory Outlet",NULL,Destin,"FL ",Florida,0,32541,US,"United States","North America",Southeast
+459,AW00000459,S,"Main Office","West Georgia Commons",NULL,"La Grange","GA ",Georgia,0,30240,US,"United States","North America",Southeast
+460,AW00000460,S,"Main Office","6700 Boul Taschereau",NULL,Brossard,"QC ",Quebec,0,"J4Z 1C5",CA,Canada,"North America",Canada
+461,AW00000461,S,"Main Office","55 Standish Court",NULL,Mississauga,"ON ",Ontario,0,"L5B 3V4",CA,Canada,"North America",Canada
+462,AW00000462,S,"Main Office","43251 Viking Way, Unit 130",NULL,Richmond,"BC ","British Columbia",0,"V6B 3P7",CA,Canada,"North America",Canada
+463,AW00000463,S,"Main Office","215, avenue Reille",NULL,"Les Ulis","91 ",Essonne,0,91940,FR,France,Europe,France
+464,AW00000464,S,"Main Office","Wallstr 244",NULL,Saarbrücken,"SL ",Saarland,0,66001,DE,Germany,Europe,Germany
+465,AW00000465,S,"Main Office","Orwith Center","39 Herbert Street","St. Leonards",NSW,"New South Wales",0,2065,AU,Australia,Pacific,Australia
+466,AW00000466,S,"Main Office","6 The Farm, Liberty Road",NULL,Maidenhead,ENG,England,1,SL67RJ,GB,"United Kingdom",Europe,"United Kingdom"
+467,AW00000467,S,"Main Office","The Corner Shopping Center",NULL,"Falls Church","VA ",Virginia,0,22046,US,"United States","North America",Southeast
+468,AW00000468,S,"Main Office","Horizon Outlet Center",NULL,Monroe,"MI ",Michigan,0,98272,US,"United States","North America",Central
+469,AW00000469,S,"Main Office","Lewis County Mall",NULL,Chehalis,"WA ",Washington,0,98532,US,"United States","North America",Northwest
+470,AW00000470,S,"Main Office","755 Columbia Ctr Blvd",NULL,Kennewick,"WA ",Washington,0,99337,US,"United States","North America",Northwest
+471,AW00000471,S,"Main Office","23025 S.W. Military Rd.",NULL,"San Antonio","TX ",Texas,0,78204,US,"United States","North America",Southwest
+472,AW00000472,S,"Main Office","Ring Plaza",NULL,Norridge,"IL ",Illinois,0,60706,US,"United States","North America",Central
+473,AW00000473,S,Shipping,"9228 Via Del Sol",NULL,Phoenix,"AZ ",Arizona,0,85004,US,"United States","North America",Southwest
+473,AW00000473,S,"Main Office","Prime Outlets",NULL,Phoenix,"AZ ",Arizona,0,85004,US,"United States","North America",Southwest
+474,AW00000474,S,"Main Office","Bayshore Mall",NULL,Eureka,"CA ",California,0,95501,US,"United States","North America",Southwest
+475,AW00000475,S,"Main Office","7709 West Virginia Avenue",NULL,Phoenix,"AZ ",Arizona,0,85004,US,"United States","North America",Southwest
+476,AW00000476,S,"Main Office","Peachtree Mall",NULL,Columbus,"GA ",Georgia,0,31901,US,"United States","North America",Southeast
+477,AW00000477,S,"Main Office","University Plaza",NULL,Tampa,"FL ",Florida,0,33602,US,"United States","North America",Southeast
+478,AW00000478,S,"Main Office","46990 Viking Way",NULL,Richmond,"BC ","British Columbia",0,"V6B 3P7",CA,Canada,"North America",Canada
+479,AW00000479,S,"Main Office","9693 Louis H Lafontaine",NULL,"Ville De'anjou","QC ",Quebec,0,"J1G 2R3",CA,Canada,"North America",Canada
+480,AW00000480,S,"Main Office","69251 Creditview Road",NULL,Mississauga,"ON ",Ontario,0,"L5B 3V4",CA,Canada,"North America",Canada
+481,AW00000481,S,"Main Office","54, avenue des Ternes",NULL,"Saint Ouen","41 ","Loir et Cher",0,41100,FR,France,Europe,France
+482,AW00000482,S,"Main Office","Roßstr 9938",Verkaufsabteilung,Eilenburg,"BB ",Brandenburg,0,04838,DE,Germany,Europe,Germany
+483,AW00000483,S,"Main Office","Level 7","114 Albert Road",Rhodes,NSW,"New South Wales",0,2138,AU,Australia,Pacific,Australia
+484,AW00000484,S,"Main Office","725a The Arches",NULL,Berks,ENG,England,1,"SL4 1RH",GB,"United Kingdom",Europe,"United Kingdom"
+485,AW00000485,S,"Main Office","Leesburg Premium Outlet Centre",NULL,Leesburg,"VA ",Virginia,0,20176,US,"United States","North America",Southeast
+486,AW00000486,S,"Main Office","Tree Plaza",NULL,Braintree,"MA ",Massachusetts,0,02184,US,"United States","North America",Northeast
+487,AW00000487,S,"Main Office","Lancaster Mall",NULL,Salem,"OR ",Oregon,0,97301,US,"United States","North America",Northwest
+488,AW00000488,S,"Main Office","Lewiston Mall",NULL,Lewiston,"ID ",Idaho,0,83501,US,"United States","North America",Northwest
+489,AW00000489,S,"Main Office","Lakeline Mall",NULL,"Cedar Park","TX ",Texas,0,78613,US,"United States","North America",Southwest
+490,AW00000490,S,"Main Office","Town East Center",NULL,Mesquite,"TX ",Texas,0,75149,US,"United States","North America",Southwest
+491,AW00000491,S,"Main Office","6900 Sisk Road",NULL,Modesto,"CA ",California,0,95354,US,"United States","North America",Southwest
+492,AW00000492,S,"Main Office","3250 Baldwin Park Blvd",NULL,"Baldwin Park","CA ",California,0,91706,US,"United States","North America",Southwest
+493,AW00000493,S,"Main Office","5867 Sunrise Boulevard",NULL,"Citrus Heights","CA ",California,0,95610,US,"United States","North America",Southwest
+494,AW00000494,S,"Main Office","Flagler Park Plaza",NULL,Miami,"FL ",Florida,0,33127,US,"United States","North America",Southeast
+495,AW00000495,S,"Main Office","Market Square Shopping Center",NULL,Lakeland,"FL ",Florida,0,33801,US,"United States","North America",Southeast
+496,AW00000496,S,"Main Office","251420a 170th Street",NULL,Edmonton,"AB ",Alberta,0,T5,CA,Canada,"North America",Canada
+497,AW00000497,S,"Main Office","252851 Rowan Place",NULL,Richmond,"BC ","British Columbia",0,"V6B 3P7",CA,Canada,"North America",Canada
+498,AW00000498,S,"Main Office","5990 Avebury Road",NULL,Mississauga,"ON ",Ontario,0,"L5B 3V4",CA,Canada,"North America",Canada
+499,AW00000499,S,"Main Office","510, avenue de Villiers",NULL,Orleans,"45 ",Loiret,0,45000,FR,France,Europe,France
+500,AW00000500,S,"Main Office","Pappelallee 19",NULL,Dresden,"HE ",Hessen,0,01071,DE,Germany,Europe,Germany
+501,AW00000501,S,"Main Office","254a James Street Botany",NULL,Malabar,NSW,"New South Wales",0,2036,AU,Australia,Pacific,Australia
+502,AW00000502,S,"Main Office","Paramount House",NULL,London,ENG,England,1,"W1N 9FA",GB,"United Kingdom",Europe,"United Kingdom"
+503,AW00000503,S,"Main Office","Granite State Marketplace",NULL,Hooksett,"NH ","New Hampshire",0,03106,US,"United States","North America",Northeast
+504,AW00000504,S,"Main Office","Redford Plaza",NULL,Redford,"MI ",Michigan,0,48239,US,"United States","North America",Central
+505,AW00000505,S,"Main Office","Three Rivers Mall",NULL,Kelso,"WA ",Washington,0,98626,US,"United States","North America",Northwest
+506,AW00000506,S,"Main Office","Eastridge Mall",NULL,Casper,"WY ",Wyoming,0,82601,US,"United States","North America",Northwest
+507,AW00000507,S,"Main Office","Fountains On The Lake",NULL,Stafford,"TX ",Texas,0,77477,US,"United States","North America",Southwest
+508,AW00000508,S,"Main Office","Southwest Outlet",NULL,Hillsboro,"TX ",Texas,0,76645,US,"United States","North America",Southwest
+509,AW00000509,S,"Main Office","6500 East Grant Road",NULL,Tucson,"AZ ",Arizona,0,85701,US,"United States","North America",Southwest
+510,AW00000510,S,"Main Office","3065 Santa Margarita Parkway",NULL,"Trabuco Canyon","CA ",California,0,92679,US,"United States","North America",Southwest
+511,AW00000511,S,"Main Office","9920 Bridgepointe Parkway",NULL,"San Mateo","CA ",California,0,94404,US,"United States","North America",Southwest
+512,AW00000512,S,"Main Office","Fsa Outlet Center",NULL,Nashville,"TN ",Tennessee,0,37203,US,"United States","North America",Southeast
+513,AW00000513,S,"Main Office","Newport Shopping Center",NULL,Newport,"KY ",Kentucky,0,41071,US,"United States","North America",Southeast
+514,AW00000514,S,"Main Office","254480 River Rd",NULL,Richmond,"BC ","British Columbia",0,"V6B 3P7",CA,Canada,"North America",Canada
+515,AW00000515,S,"Main Office","Suite #9902",NULL,"North York","ON ",Ontario,0,"M4C 4K6",CA,Canada,"North America",Canada
+516,AW00000516,S,"Main Office","5th Floor, 79 Place D'armes",NULL,Kingston,"ON ",Ontario,0,7L,CA,Canada,"North America",Canada
+517,AW00000517,S,"Main Office","30, avenue de l´ Union Centrale",NULL,"Les Ulis","91 ",Essonne,0,91940,FR,France,Europe,France
+518,AW00000518,S,"Main Office","Karl Liebknecht str 399","Leiter der Abteilung",Berlin,"HE ",Hessen,0,14111,DE,Germany,Europe,Germany
+519,AW00000519,S,"Main Office","Level 25","96 Lytton Rd.",Melbourne,VIC,Victoria,0,3000,AU,Australia,Pacific,Australia
+520,AW00000520,S,"Main Office","2524 Barlby Road",NULL,London,ENG,England,1,"W10 6BL",GB,"United Kingdom",Europe,"United Kingdom"
+521,AW00000521,S,"Main Office","Walnut Hill Plaza",NULL,Woonsocket,"RI ","Rhode Island",0,02895,US,"United States","North America",Northeast
+522,AW00000522,S,"Main Office","Consumer Square",NULL,Cheektowaga,"NY ","New York",0,14227,US,"United States","North America",Northeast
+523,AW00000523,S,"Main Office","5525 South Hover Road",NULL,Longmont,"CO ",Colorado,0,80501,US,"United States","North America",Central
+524,AW00000524,S,"Main Office","Factory Stores Of America",NULL,Smithfield,"NC ","North Carolina",0,27577,US,"United States","North America",Southeast
+525,AW00000525,S,"Main Office","Peach Festival Outlet",NULL,Byron,"GA ",Georgia,0,31008,US,"United States","North America",Southeast
+526,AW00000526,S,"Main Office","#500-75 O'Connor Street",NULL,Ottawa,"ON ",Ontario,0,"K4B 1S2",CA,Canada,"North America",Canada
+527,AW00000527,S,"Main Office","8525 South Parker Road",NULL,Parker,"CO ",Colorado,0,80138,US,"United States","North America",Central
+528,AW00000528,S,"Main Office","7505 Laguna Boulevard",NULL,"Elk Grove","CA ",California,0,95624,US,"United States","North America",Southwest
+529,AW00000529,S,"Main Office","9909 W. Ventura Boulevard",NULL,Camarillo,"CA ",California,0,93010,US,"United States","North America",Southwest
+530,AW00000530,S,"Main Office","Belz Factory Outlet",NULL,Orlando,"FL ",Florida,0,32804,US,"United States","North America",Southeast
+531,AW00000531,S,"Main Office","Horizon Outlet Center",NULL,"Vero Beach","FL ",Florida,0,32960,US,"United States","North America",Southeast
+532,AW00000532,S,"Main Office","4400 March Road",NULL,Kanata,"ON ",Ontario,0,"K2L 1H5",CA,Canada,"North America",Canada
+533,AW00000533,S,"Main Office","Depot 80",NULL,Sillery,"QC ",Quebec,0,G1T,CA,Canada,"North America",Canada
+534,AW00000534,S,"Main Office","250 Kingsbridge Garden Circle",NULL,Mississauga,"ON ",Ontario,0,"L5B 3V4",CA,Canada,"North America",Canada
+535,AW00000535,S,"Main Office","33, rue Georges-Clémenceau",NULL,Cergy,"95 ","Val d'Oise",0,95000,FR,France,Europe,France
+536,AW00000536,S,"Main Office","Brunnenstr 9511",NULL,Berlin,"SL ",Saarland,0,14197,DE,Germany,Europe,Germany
+537,AW00000537,S,"Main Office","Level 25","538 Climbing Street",Rhodes,NSW,"New South Wales",0,2138,AU,Australia,Pacific,Australia
+538,AW00000538,S,"Main Office","99-3 Forest Works",NULL,London,ENG,England,1,"E17 6JF",GB,"United Kingdom",Europe,"United Kingdom"
+539,AW00000539,S,"Main Office","Adirondack Factory Outlet",NULL,"Lake George","NY ","New York",0,12845,US,"United States","North America",Northeast
+540,AW00000540,S,"Main Office","Buckeye Factory Shops",NULL,Burbank,"OH ",Ohio,0,44214,US,"United States","North America",Northeast
+541,AW00000541,S,"Main Office","Holiday Village Mall",NULL,"Great Falls","MT ",Montana,0,59401,US,"United States","North America",Northwest
+542,AW00000542,S,"Main Office","2526a Tri-Lake Blvd Ne",NULL,Kirkland,"WA ",Washington,0,98033,US,"United States","North America",Northwest
+543,AW00000543,S,"Main Office","Johnson Creek",NULL,"Johnson Creek","WI ",Wisconsin,0,53038,US,"United States","North America",Central
+544,AW00000544,S,"Main Office","Blue Ridge Mall",NULL,"Kansas City","MO ",Missouri,0,64106,US,"United States","North America",Central
+545,AW00000545,S,"Main Office","25150 El Camino Real",NULL,"San Bruno","CA ",California,0,94066,US,"United States","North America",Southwest
+546,AW00000546,S,"Main Office","2575 Rocky Mountain Ave.",NULL,Loveland,"CO ",Colorado,0,80537,US,"United States","North America",Central
+547,AW00000547,S,"Main Office","25871 North Main Street",NULL,"Walnut Creek","CA ",California,0,94596,US,"United States","North America",Southwest
+548,AW00000548,S,"Main Office","Hilton Head Factory Outlets No. 25",NULL,Bluffton,"SC ","South Carolina",0,29910,US,"United States","North America",Southeast
+549,AW00000549,S,"Main Office","Bay Area Outlet Mall",NULL,Clearwater,"FL ",Florida,0,33755,US,"United States","North America",Southeast
+550,AW00000550,S,"Main Office","No. 2000-25080 Beaver Hall Hill",NULL,Quebec,"QC ",Quebec,0,G1R,CA,Canada,"North America",Canada
+551,AW00000551,S,"Main Office","No. 25800-130 King Street West",NULL,Toronto,"ON ",Ontario,0,"M4B 1V5",CA,Canada,"North America",Canada
+552,AW00000552,S,"Main Office","25 Danger Street West","Floor 7",Toronto,"ON ",Ontario,0,"M4B 1V5",CA,Canada,"North America",Canada
+553,AW00000553,S,"Main Office","699bis, rue des Peupliers",NULL,Paris,"75 ","Seine (Paris)",0,75008,FR,France,Europe,France
+554,AW00000554,S,"Main Office","Knaackstr 7",NULL,Paderborn,"HH ",Hamburg,0,33041,DE,Germany,Europe,Germany
+555,AW00000555,S,"Main Office","2253-217 Palmer Street",NULL,Darlinghurst,NSW,"New South Wales",0,2010,AU,Australia,Pacific,Australia
+556,AW00000556,S,"Main Office","46-44 Albemarle Street",NULL,London,ENG,England,1,W1X3SE,GB,"United Kingdom",Europe,"United Kingdom"
+557,AW00000557,S,"Main Office","Wrentham Village",NULL,Wrentham,"MA ",Massachusetts,0,02093,US,"United States","North America",Northeast
+558,AW00000558,S,"Main Office","Lake Region Factory Outlet",NULL,Tilton,"NH ","New Hampshire",0,03276,US,"United States","North America",Northeast
+559,AW00000559,S,"Main Office","Frontier Mall",NULL,Cheyenne,"WY ",Wyoming,0,82001,US,"United States","North America",Northwest
+560,AW00000560,S,"Main Office","White Mountain Mall",NULL,"Rock Springs","WY ",Wyoming,0,82901,US,"United States","North America",Northwest
+561,AW00000561,S,"Main Office","First Colony Mall",NULL,"Sugar Land","TX ",Texas,0,77478,US,"United States","North America",Southwest
+562,AW00000562,S,"Main Office","Horizon Outlet",NULL,Woodbury,"MN ",Minnesota,0,55125,US,"United States","North America",Central
+563,AW00000563,S,"Main Office","2551 East Warner Road",NULL,Gilbert,"AZ ",Arizona,0,85233,US,"United States","North America",Southwest
+564,AW00000564,S,"Main Office","22589 West Craig Road",NULL,"North Las Vegas","NV ",Nevada,0,89030,US,"United States","North America",Northwest
+565,AW00000565,S,"Main Office","25751 University Drive",NULL,Vista,"CA ",California,0,92084,US,"United States","North America",Southwest
+566,AW00000566,S,"Main Office","Gulfport Factory Shops",NULL,Gulfport,"MS ",Mississippi,0,39501,US,"United States","North America",Southeast
+567,AW00000567,S,"Main Office","Belz Factory Outlet",NULL,"Pigeon Forge","TN ",Tennessee,0,37863,US,"United States","North America",Southeast
+568,AW00000568,S,"Main Office","6th Floor, 25st Canadian Place",NULL,Toronto,"ON ",Ontario,0,"M4B 1V5",CA,Canada,"North America",Canada
+569,AW00000569,S,"Main Office","254 Colonnade Road",NULL,Nepean,"ON ",Ontario,0,"K2J 2W5",CA,Canada,"North America",Canada
+570,AW00000570,S,Shipping,"26910 Indela Road",NULL,Montreal,"QC ",Quebec,0,"H1Y 2H5",CA,Canada,"North America",Canada
+570,AW00000570,S,"Main Office","25981 College Street",NULL,Montreal,"QC ",Quebec,0,"H1Y 2H5",CA,Canada,"North America",Canada
+571,AW00000571,S,"Main Office","3639, rue des Grands Champs",NULL,Boulogne-sur-Mer,"62 ","Pas de Calais",0,62200,FR,France,Europe,France
+572,AW00000572,S,"Main Office","Alderstr 1849",NULL,Braunschweig,"NW ",Nordrhein-Westfalen,0,38001,DE,Germany,Europe,Germany
+573,AW00000573,S,"Main Office","4250 Concord Road",NULL,Rhodes,NSW,"New South Wales",0,2138,AU,Australia,Pacific,Australia
+574,AW00000574,S,"Main Office","399 Clearing Green",NULL,London,ENG,England,1,"EC1R 0DU",GB,"United Kingdom",Europe,"United Kingdom"
+575,AW00000575,S,"Main Office","Cherry Grove Plaza",NULL,Cincinnati,"OH ",Ohio,0,45202,US,"United States","North America",Northeast
+576,AW00000576,S,"Main Office","Johnny Appleseed Shop.center",NULL,Mansfield,"OH ",Ohio,0,44903,US,"United States","North America",Northeast
+577,AW00000577,S,"Main Office","3390 South 23rd St.",NULL,Tacoma,"WA ",Washington,0,98403,US,"United States","North America",Northwest
+578,AW00000578,S,"Main Office","3250 South Meridian",NULL,Puyallup,"WA ",Washington,0,98371,US,"United States","North America",Northwest
+579,AW00000579,S,"Main Office","Tanger Factory",NULL,Branch,"MN ",Minnesota,0,55056,US,"United States","North America",Central
+580,AW00000580,S,"Main Office","Management Mall",NULL,"San Antonio","TX ",Texas,0,78204,US,"United States","North America",Southwest
+581,AW00000581,S,"Main Office","49925 Crestview Drive N.E.",NULL,"Rio Rancho","NM ","New Mexico",0,87124,US,"United States","North America",Southwest
+582,AW00000582,S,"Main Office","57251 Serene Blvd",NULL,"Van Nuys","CA ",California,0,91411,US,"United States","North America",Southwest
+583,AW00000583,S,"Main Office","253731 West Bell Road",NULL,Surprise,"AZ ",Arizona,0,85374,US,"United States","North America",Southwest
+584,AW00000584,S,"Main Office","Savannah Festival Outlet",NULL,Savannah,"GA ",Georgia,0,31401,US,"United States","North America",Southeast
+585,AW00000585,S,"Main Office","Mall Of Memphis",NULL,Memphis,"TN ",Tennessee,0,38103,US,"United States","North America",Southeast
+586,AW00000586,S,"Main Office","5 place Ville-Marie",NULL,Montreal,"QC ",Quebec,0,"H1Y 2H7",CA,Canada,"North America",Canada
+587,AW00000587,S,"Main Office","6030 Conroy Road",NULL,Ottawa,"ON ",Ontario,0,"K4B 1S3",CA,Canada,"North America",Canada
+588,AW00000588,S,"Main Office","30025 Wayburne Drive, Suite 275",NULL,Burnaby,"BC ","British Columbia",0,"V5G 4W1",CA,Canada,"North America",Canada
+589,AW00000589,S,"Main Office","3833, boulevard Beau Marchais",NULL,Paris,"75 ","Seine (Paris)",0,75009,FR,France,Europe,France
+590,AW00000590,S,"Main Office","Kurfürstenstr 74",NULL,Poing,"SL ",Saarland,0,66041,DE,Germany,Europe,Germany
+591,AW00000591,S,"Main Office","Level 992","56 Pitt Street",Melbourne,VIC,Victoria,0,3000,AU,Australia,Pacific,Australia
+592,AW00000592,S,"Main Office","997b Tradescant Road",NULL,London,ENG,England,1,"SW8 1XD",GB,"United Kingdom",Europe,"United Kingdom"
+593,AW00000593,S,"Main Office","Spring Meadows Place",NULL,Holland,"OH ",Ohio,0,43528,US,"United States","North America",Northeast
+594,AW00000594,S,"Main Office","Westside Plaza",NULL,Nashua,"NH ","New Hampshire",0,03064,US,"United States","North America",Northeast
+595,AW00000595,S,"Main Office","2255 254th Avenue Se",NULL,Albany,"OR ",Oregon,0,97321,US,"United States","North America",Northwest
+596,AW00000596,S,"Main Office","705 SE Mall Parkway",NULL,Everett,"WA ",Washington,0,98201,US,"United States","North America",Northwest
+597,AW00000597,S,"Main Office","Ohms Road",NULL,Houston,"TX ",Texas,0,77003,US,"United States","North America",Southwest
+598,AW00000598,S,"Main Office","Factory Merchants",NULL,Branson,"MO ",Missouri,0,65616,US,"United States","North America",Central
+599,AW00000599,S,"Main Office","99040 California Avenue",NULL,"Sand City","CA ",California,0,93955,US,"United States","North America",Southwest
+600,AW00000600,S,"Main Office","25620 Firestone Boulevard",NULL,Norwalk,"CA ",California,0,90650,US,"United States","North America",Southwest
+601,AW00000601,S,"Main Office","25130 South State Street",NULL,Sandy,"UT ",Utah,0,84070,US,"United States","North America",Northwest
+602,AW00000602,S,"Main Office","Foothills Mall",NULL,Maryville,"TN ",Tennessee,0,37801,US,"United States","North America",Southeast
+603,AW00000603,S,"Main Office","Dadeland Mall, Space 25090",NULL,Miami,"FL ",Florida,0,33127,US,"United States","North America",Southeast
+604,AW00000604,S,"Main Office","700 Se Sunnyside Road",NULL,Clackamas,"OR ",Oregon,0,97015,US,"United States","North America",Northwest
+605,AW00000605,S,"Main Office","North 93270 Newport Highway",NULL,Spokane,"WA ",Washington,0,99202,US,"United States","North America",Northwest
+606,AW00000606,S,"Main Office","Cedar Creek Stores",NULL,Mosinee,"WI ",Wisconsin,0,54455,US,"United States","North America",Central
+607,AW00000607,S,"Main Office","Lone Star Factory",NULL,"La Marque","TX ",Texas,0,77568,US,"United States","North America",Southwest
+608,AW00000608,S,"Main Office","5500 Grossmont Center Drive",NULL,"La Mesa","CA ",California,0,91941,US,"United States","North America",Southwest
+609,AW00000609,S,"Main Office","99700 Bell Road",NULL,Auburn,"CA ",California,0,95603,US,"United States","North America",Southwest
+610,AW00000610,S,"Main Office","7750 E Marching Rd",NULL,Scottsdale,"AZ ",Arizona,0,85257,US,"United States","North America",Southwest
+611,AW00000611,S,"Main Office","DeSouth Square",NULL,Bradenton,"FL ",Florida,0,34205,US,"United States","North America",Southeast
+612,AW00000612,S,"Main Office","32525 Hollywood Blvd.",NULL,Hollywood,"FL ",Florida,0,33021,US,"United States","North America",Southeast
+613,AW00000613,S,"Main Office","999 West Georgia St.",NULL,Vancouver,"ON ",Ontario,0,"V5T 1Y9",CA,Canada,"North America",Canada
+614,AW00000614,S,"Main Office","1, place de la République",NULL,Paris,"75 ","Seine (Paris)",0,75017,FR,France,Europe,France
+615,AW00000615,S,"Main Office","Königsteiner Straße 449",NULL,Leipzig,"NW ",Nordrhein-Westfalen,0,04139,DE,Germany,Europe,Germany
+616,AW00000616,S,"Main Office","Level 7","201 Sussex Street",Matraville,NSW,"New South Wales",0,2036,AU,Australia,Pacific,Australia
+617,AW00000617,S,"Main Office","2574 Milton Park",NULL,Oxford,ENG,England,1,"OX14 4SE",GB,"United Kingdom",Europe,"United Kingdom"
+618,AW00000618,S,"Main Office","Stateline Plaza",NULL,Plaistow,"NH ","New Hampshire",0,03865,US,"United States","North America",Northeast
+619,AW00000619,S,"Main Office","Pyramid Mall",NULL,Ithaca,"NY ","New York",0,14850,US,"United States","North America",Northeast
+620,AW00000620,S,"Main Office","25708 Dell Range Blvd.",NULL,Cheyenne,"WY ",Wyoming,0,82001,US,"United States","North America",Northwest
+621,AW00000621,S,"Main Office","No. 60 Bellis Fair Parkway",NULL,Bellingham,"WA ",Washington,0,98225,US,"United States","North America",Northwest
+622,AW00000622,S,"Main Office","Sports Stores @ Tuscola",NULL,Tuscola,"IL ",Illinois,0,61953,US,"United States","North America",Central
+623,AW00000623,S,"Main Office","City Center",NULL,Minneapolis,"MN ",Minnesota,0,55402,US,"United States","North America",Central
+623,AW00000623,S,Shipping,"99 Front Street",NULL,Minneapolis,"MN ",Minnesota,0,55402,US,"United States","North America",Central
+624,AW00000624,S,"Main Office","25250 N 90th St",NULL,Scottsdale,"AZ ",Arizona,0,85257,US,"United States","North America",Southwest
+625,AW00000625,S,"Main Office","9980 S Alma School Road",NULL,Chandler,"AZ ",Arizona,0,85225,US,"United States","North America",Southwest
+626,AW00000626,S,"Main Office","6753 Howard Hughes Parkway",NULL,"Las Vegas","NV ",Nevada,0,89106,US,"United States","North America",Northwest
+627,AW00000627,S,"Main Office","7700 Green Road",NULL,Raleigh,"NC ","North Carolina",0,27603,US,"United States","North America",Southeast
+628,AW00000628,S,"Main Office","20500 S.W. 2512th Ave",NULL,Miami,"FL ",Florida,0,33127,US,"United States","North America",Southeast
+629,AW00000629,S,"Main Office","250333 Southport Road, S.W.",NULL,Calgary,"AB ",Alberta,0,"T2P 2G8",CA,Canada,"North America",Canada
+630,AW00000630,S,"Main Office","7000 Victoria Park Avenue",NULL,Toronto,"ON ",Ontario,0,"M4B 1V4",CA,Canada,"North America",Canada
+631,AW00000631,S,"Main Office","63 Free St.",NULL,Toronto,"ON ",Ontario,0,"M4B 1V4",CA,Canada,"North America",Canada
+632,AW00000632,S,"Main Office","12, rue Lafayette",NULL,Morangis,"91 ",Essonne,0,91420,FR,France,Europe,France
+633,AW00000633,S,"Main Office","Buergermeister-ulrich-str 3000",Buchhaltung,Augsburg,"BY ",Bayern,0,86150,DE,Germany,Europe,Germany
+634,AW00000634,S,"Main Office","Level 5","157 Liverpool Street",Rhodes,NSW,"New South Wales",0,2138,AU,Australia,Pacific,Australia
+635,AW00000635,S,"Main Office","Internet House, 3399 Science Park",NULL,Cambridge,ENG,England,1,"CB4 4BZ",GB,"United Kingdom",Europe,"United Kingdom"
+636,AW00000636,S,"Main Office","Logansport Mall",NULL,Logansport,"IN ",Indiana,0,46947,US,"United States","North America",Northeast
+637,AW00000637,S,"Main Office","609 Evans Avenue",NULL,Toronto,"ON ",Ontario,0,"M4B 1V4",CA,Canada,"North America",Canada
+638,AW00000638,S,"Main Office","88, avenue de l´ Union Centrale",NULL,Paris,"75 ","Seine (Paris)",0,75012,FR,France,Europe,France
+639,AW00000639,S,"Main Office","Postfach 55 00 00",NULL,Frankfurt,"BY ",Bayern,0,91480,DE,Germany,Europe,Germany
+640,AW00000640,S,"Main Office","No. 6","Millenium Court",Perth,"SA ","South Australia",0,6006,AU,Australia,Pacific,Australia
+641,AW00000641,S,"Main Office","7 Garden House Cloisters, 8 Batters",NULL,London,ENG,England,1,"SW8 4BG",GB,"United Kingdom",Europe,"United Kingdom"
+642,AW00000642,S,"Main Office","Dansk Square",NULL,Kittery,"ME ",Maine,0,03904,US,"United States","North America",Northeast
+643,AW00000643,S,"Main Office","Port Huron",NULL,"Port Huron","MI ",Michigan,0,48060,US,"United States","North America",Central
+644,AW00000644,S,"Main Office","950 Gateway Street",NULL,Springfield,"OR ",Oregon,0,97477,US,"United States","North America",Northwest
+645,AW00000645,S,"Main Office","250775 SW Hillsdale Hwy",NULL,Beaverton,"OR ",Oregon,0,97005,US,"United States","North America",Northwest
+646,AW00000646,S,"Main Office","St. Louis Marketplace",NULL,"Saint Louis","MO ",Missouri,0,63103,US,"United States","North America",Central
+647,AW00000647,S,"Main Office","Lincoln Square",NULL,Arlington,"TX ",Texas,0,76010,US,"United States","North America",Southwest
+648,AW00000648,S,"Main Office","Corp Ofc Accts Payable",NULL,"El Segundo","CA ",California,0,90245,US,"United States","North America",Southwest
+649,AW00000649,S,"Main Office","Po Box 252525",NULL,"Santa Ana","CA ",California,0,92701,US,"United States","North America",Southwest
+650,AW00000650,S,"Main Office","62500 Neil Road",NULL,Reno,"NV ",Nevada,0,89502,US,"United States","North America",Northwest
+651,AW00000651,S,"Main Office","9935 Robert C Daniel Jr Parkway",NULL,Augusta,"GA ",Georgia,0,30901,US,"United States","North America",Southeast
+652,AW00000652,S,"Main Office","99535 Dallas Highway",NULL,Marietta,"GA ",Georgia,0,30060,US,"United States","North America",Southeast
+653,AW00000653,S,"Main Office","2520 Flanders Road",NULL,Toronto,"ON ",Ontario,0,"M4B 1V4",CA,Canada,"North America",Canada
+654,AW00000654,S,"Main Office","32605 West 252 Mile Road, Suite 250",NULL,Aurora,"ON ",Ontario,0,"L4G 7N6",CA,Canada,"North America",Canada
+655,AW00000655,S,"Main Office","25730, boul. St-Régis",NULL,Dorval,"QC ",Quebec,0,"H9P 1H1",CA,Canada,"North America",Canada
+656,AW00000656,S,"Main Office","3383, rue Lamarck",NULL,Paris,"75 ","Seine (Paris)",0,75007,FR,France,Europe,France
+657,AW00000657,S,"Main Office","Helsenbergbogen 6",NULL,Ascheim,"HH ",Hamburg,0,86171,DE,Germany,Europe,Germany
+658,AW00000658,S,"Main Office","Level 59",NULL,Alexandria,NSW,"New South Wales",0,2015,AU,Australia,Pacific,Australia
+659,AW00000659,S,"Main Office","25 Hartfield Road, Wimbledon",NULL,London,ENG,England,1,"SW19 3RU",GB,"United Kingdom",Europe,"United Kingdom"
+660,AW00000660,S,"Main Office","Kensington Valley Shops",NULL,Howell,"MI ",Michigan,0,48843,US,"United States","North America",Central
+661,AW00000661,S,"Main Office","253131 Lake Frasier Drive, Office No. 2",NULL,Calgary,"AB ",Alberta,0,"T2P 2G8",CA,Canada,"North America",Canada
+662,AW00000662,S,"Main Office","28, avenue des Champs-Elysées",NULL,Croix,"59 ",Nord,0,59170,FR,France,Europe,France
+663,AW00000663,S,"Main Office","Buergermeister-ulrich-str 9500",NULL,Augsburg,"HH ",Hamburg,0,86171,DE,Germany,Europe,Germany
+664,AW00000664,S,"Main Office","45671 Queens Road Ct.",NULL,Melbourne,VIC,Victoria,0,3000,AU,Australia,Pacific,Australia
+665,AW00000665,S,"Main Office","99 Dean Street, Soho",NULL,London,ENG,England,1,"W1V 5RN",GB,"United Kingdom",Europe,"United Kingdom"
+666,AW00000666,S,"Main Office","Polaris Town Center",NULL,Columbus,"OH ",Ohio,0,43215,US,"United States","North America",Northeast
+667,AW00000667,S,"Main Office","Green Acres Mall",NULL,"Valley Stream","NY ","New York",0,11580,US,"United States","North America",Northeast
+668,AW00000668,S,"Main Office","9905 Three Rivers Drive",NULL,Kelso,"WA ",Washington,0,98626,US,"United States","North America",Northwest
+669,AW00000669,S,"Main Office","225 South 314th Street",NULL,"Federal Way","WA ",Washington,0,98003,US,"United States","North America",Northwest
+670,AW00000670,S,"Main Office","Kansas City Factory Outlet",NULL,Odessa,"MO ",Missouri,0,64076,US,"United States","North America",Central
+671,AW00000671,S,"Main Office","Fiesta Trail Shopping Center",NULL,"San Antonio","TX ",Texas,0,78204,US,"United States","North America",Southwest
+672,AW00000672,S,"Main Office","4635 S. Harrison Blvd.",NULL,Ogden,"UT ",Utah,0,84401,US,"United States","North America",Northwest
+673,AW00000673,S,"Main Office","825 W 500 S",NULL,Bountiful,"UT ",Utah,0,84010,US,"United States","North America",Northwest
+674,AW00000674,S,"Main Office","603 Gellert Blvd",NULL,"Daly City","CA ",California,0,94015,US,"United States","North America",Southwest
+675,AW00000675,S,"Main Office","254075 Biscayne Blvd.",NULL,"North Miami Beach","FL ",Florida,0,33162,US,"United States","North America",Southeast
+676,AW00000676,S,"Main Office","42525 Austell Road",NULL,Austell,"GA ",Georgia,0,30106,US,"United States","North America",Southeast
+677,AW00000677,S,"Main Office","9984 Wellington Street",NULL,Ottawa,"ON ",Ontario,0,"K4B 1S2",CA,Canada,"North America",Canada
+678,AW00000678,S,"Main Office","9950 Ferrand Drive, 9th Floor",NULL,Toronto,"ON ",Ontario,0,"M4B 1V4",CA,Canada,"North America",Canada
+679,AW00000679,S,"Main Office","990th Floor 700 De La GauchetiSre Ou",NULL,Montreal,"QC ",Quebec,0,"H1Y 2H3",CA,Canada,"North America",Canada
+680,AW00000680,S,"Main Office","21, avenue de la Gare",NULL,Sèvres,"92 ","Hauts de Seine",0,92310,FR,France,Europe,France
+681,AW00000681,S,"Main Office","Erftplatz 22",NULL,"Sulzbach Taunus","SL ",Saarland,0,66272,DE,Germany,Europe,Germany
+682,AW00000682,S,"Main Office","Level 7","80 Arthur Street",Newcastle,NSW,"New South Wales",0,2300,AU,Australia,Pacific,Australia
+683,AW00000683,S,"Main Office","Park House-4th Floor, 2516 Park St.",NULL,London,ENG,England,1,"W1Y 3RA",GB,"United Kingdom",Europe,"United Kingdom"
+684,AW00000684,S,"Main Office","Connecticut Post Mall",NULL,Milford,"CT ",Connecticut,0,06460,US,"United States","North America",Northeast
+685,AW00000685,S,"Main Office","660 Saint-Jacques, Bureau 400",NULL,Montreal,"QC ",Quebec,0,"H1Y 2H8",CA,Canada,"North America",Canada
+686,AW00000686,S,"Main Office","62, route de Marseille",NULL,Suresnes,"92 ","Hauts de Seine",0,92150,FR,France,Europe,France
+687,AW00000687,S,"Main Office","Viktoria-Luise-Platz 475",NULL,München,"NW ",Nordrhein-Westfalen,0,80074,DE,Germany,Europe,Germany
+688,AW00000688,S,"Main Office","254a Baker Street",Botany,Sydney,NSW,"New South Wales",0,1002,AU,Australia,Pacific,Australia
+689,AW00000689,S,"Main Office","67 Vincent Square, Victoria",NULL,London,ENG,England,1,"SW1P 2NU",GB,"United Kingdom",Europe,"United Kingdom"
+690,AW00000690,S,"Main Office","Indian Mound Mall",NULL,Heath,"OH ",Ohio,0,43056,US,"United States","North America",Northeast
+691,AW00000691,S,"Main Office","Amity Plaza",NULL,"New Haven","CT ",Connecticut,0,06510,US,"United States","North America",Northeast
+692,AW00000692,S,"Main Office","7009 Sw Hall Blvd.",NULL,Tigard,"OR ",Oregon,0,97223,US,"United States","North America",Northwest
+693,AW00000693,S,"Main Office","99295 S.e. Tualatin Valley_hwy.",NULL,Hillsboro,"OR ",Oregon,0,97123,US,"United States","North America",Northwest
+694,AW00000694,S,"Main Office","Medford Outlet Center",NULL,Medford,"MN ",Minnesota,0,55049,US,"United States","North America",Central
+695,AW00000695,S,"Main Office","Ward Parkway Center",NULL,"Kansas City","MO ",Missouri,0,64106,US,"United States","North America",Central
+696,AW00000696,S,"Main Office","2564 S. Redwood Rd.",NULL,Riverton,"UT ",Utah,0,84065,US,"United States","North America",Northwest
+697,AW00000697,S,"Main Office","9927 N. Main St.",NULL,Tooele,"UT ",Utah,0,84074,US,"United States","North America",Northwest
+698,AW00000698,S,"Main Office","566 S. Main",NULL,"Cedar City","UT ",Utah,0,84720,US,"United States","North America",Northwest
+699,AW00000699,S,"Main Office","6333 Cloverleaf Parkway",NULL,Kannapolis,"NC ","North Carolina",0,28081,US,"United States","North America",Southeast
+700,AW00000700,S,"Main Office","8520 University City Blvd",NULL,Charlotte,"NC ","North Carolina",0,28202,US,"United States","North America",Southeast
+701,AW00000701,S,"Main Office","67255 - 8th Street N.E., Suite 350",NULL,Calgary,"AB ",Alberta,0,"T2P 2G8",CA,Canada,"North America",Canada
+11000,AW00011000,I,Home,"3761 N. 14th St",NULL,Rockhampton,QLD,Queensland,0,4700,AU,Australia,Pacific,Australia
+11001,AW00011001,I,Home,"2243 W St.",NULL,Seaford,VIC,Victoria,0,3198,AU,Australia,Pacific,Australia
+11002,AW00011002,I,Home,"5844 Linden Land",NULL,Hobart,TAS,Tasmania,0,7001,AU,Australia,Pacific,Australia
+11003,AW00011003,I,Home,"1825 Village Pl.",NULL,"North Ryde",NSW,"New South Wales",0,2113,AU,Australia,Pacific,Australia
+11004,AW00011004,I,Home,"7553 Harness Circle",NULL,Wollongong,NSW,"New South Wales",0,2500,AU,Australia,Pacific,Australia
+11005,AW00011005,I,Home,"7305 Humphrey Drive",NULL,"East Brisbane",QLD,Queensland,0,4169,AU,Australia,Pacific,Australia
+11006,AW00011006,I,Home,"2612 Berry Dr",NULL,Matraville,NSW,"New South Wales",0,2036,AU,Australia,Pacific,Australia
+11007,AW00011007,I,Home,"942 Brook Street",NULL,Warrnambool,VIC,Victoria,0,3280,AU,Australia,Pacific,Australia
+11008,AW00011008,I,Home,"624 Peabody Road",NULL,Bendigo,VIC,Victoria,0,3550,AU,Australia,Pacific,Australia
+11009,AW00011009,I,Home,"3839 Northgate Road",NULL,"Hervey Bay",QLD,Queensland,0,4655,AU,Australia,Pacific,Australia
+11010,AW00011010,I,Home,"7800 Corrinne Court",NULL,"East Brisbane",QLD,Queensland,0,4169,AU,Australia,Pacific,Australia
+11011,AW00011011,I,Home,"1224 Shoenic",NULL,"East Brisbane",QLD,Queensland,0,4169,AU,Australia,Pacific,Australia
+11012,AW00011012,I,Home,"4785 Scott Street",NULL,Bremerton,"WA ",Washington,0,98312,US,"United States","North America",Northwest
+11013,AW00011013,I,Home,"7902 Hudson Ave.",NULL,Lebanon,"OR ",Oregon,0,97355,US,"United States","North America",Northwest
+11014,AW00011014,I,Home,"9011 Tank Drive",NULL,Redmond,"WA ",Washington,0,98052,US,"United States","North America",Northwest
+11015,AW00011015,I,Home,"244 Willow Pass Road",NULL,Burbank,"CA ",California,0,91502,US,"United States","North America",Southwest
+11016,AW00011016,I,Home,"9666 Northridge Ct.",NULL,"Imperial Beach","CA ",California,0,91932,US,"United States","North America",Southwest
+11017,AW00011017,I,Home,"7330 Saddlehill Lane",NULL,Sunbury,VIC,Victoria,0,3429,AU,Australia,Pacific,Australia
+11018,AW00011018,I,Home,"244 Rivewview",NULL,Bendigo,VIC,Victoria,0,3550,AU,Australia,Pacific,Australia
+11019,AW00011019,I,Home,"7832 Landing Dr",NULL,Langley,"BC ","British Columbia",0,"V3A 4R2",CA,Canada,"North America",Canada
+11020,AW00011020,I,Home,"7156 Rose Dr.",NULL,Metchosin,"BC ","British Columbia",0,V9,CA,Canada,"North America",Canada
+11021,AW00011021,I,Home,"8148 W. Lake Dr.",NULL,Beaverton,"OR ",Oregon,0,97005,US,"United States","North America",Northwest
+11022,AW00011022,I,Home,"1769 Nicholas Drive",NULL,Bellingham,"WA ",Washington,0,98225,US,"United States","North America",Northwest
+11023,AW00011023,I,Home,"4499 Valley Crest",NULL,Bellflower,"CA ",California,0,90706,US,"United States","North America",Southwest
+11024,AW00011024,I,Home,"8734 Oxford Place",NULL,Concord,"CA ",California,0,94519,US,"United States","North America",Southwest
+11025,AW00011025,I,Home,"2596 Franklin Canyon Road",NULL,Hawthorne,QLD,Queensland,0,4171,AU,Australia,Pacific,Australia
+11026,AW00011026,I,Home,"8211 Leeds Ct.",NULL,Goulburn,NSW,"New South Wales",0,2580,AU,Australia,Pacific,Australia
+11027,AW00011027,I,Home,"213 Valencia Place",NULL,Warrnambool,VIC,Victoria,0,3280,AU,Australia,Pacific,Australia
+11028,AW00011028,I,Home,"9111 Rose Ann Ave",NULL,"St. Leonards",NSW,"New South Wales",0,2065,AU,Australia,Pacific,Australia
+11029,AW00011029,I,Home,"6385 Mark Twain",NULL,Bendigo,VIC,Victoria,0,3550,AU,Australia,Pacific,Australia
+11030,AW00011030,I,Home,"636 Vine Hill Way",NULL,Cloverdale,"SA ","South Australia",0,6105,AU,Australia,Pacific,Australia
+11031,AW00011031,I,Home,"6465 Detroit Ave.",NULL,Matraville,NSW,"New South Wales",0,2036,AU,Australia,Pacific,Australia
+11032,AW00011032,I,Home,"626 Bentley Street",NULL,Melbourne,VIC,Victoria,0,3000,AU,Australia,Pacific,Australia
+11033,AW00011033,I,Home,"5927 Rainbow Dr",NULL,"Milsons Point",NSW,"New South Wales",0,2061,AU,Australia,Pacific,Australia
+11034,AW00011034,I,Home,"5167 Condor Place",NULL,"North Sydney",NSW,"New South Wales",0,2055,AU,Australia,Pacific,Australia
+11035,AW00011035,I,Home,"1873 Mt. Whitney Dr",NULL,Cranbourne,VIC,Victoria,0,3977,AU,Australia,Pacific,Australia
+11036,AW00011036,I,Home,"3981 Augustine Drive",NULL,"National City","CA ",California,0,91950,US,"United States","North America",Southwest
+11037,AW00011037,I,Home,"8915 Woodside Way",NULL,Cliffside,"BC ","British Columbia",0,"V8Y 1L1",CA,Canada,"North America",Canada
+11038,AW00011038,I,Home,"8357 Sandy Cove Lane",NULL,"Lavender Bay",NSW,"New South Wales",0,2060,AU,Australia,Pacific,Australia
+11039,AW00011039,I,Home,"9353 Creekside Dr.",NULL,Wollongong,NSW,"New South Wales",0,2500,AU,Australia,Pacific,Australia
+11040,AW00011040,I,Home,"3350 Kingswood Circle",NULL,Tacoma,"WA ",Washington,0,98403,US,"United States","North America",Northwest
+11041,AW00011041,I,Home,"5826 Escobar",NULL,Glendale,"CA ",California,0,91203,US,"United States","North America",Southwest
+11042,AW00011042,I,Home,"1397 Paraiso Ct.",NULL,"Los Angeles","CA ",California,0,90012,US,"United States","North America",Southwest
+11043,AW00011043,I,Home,"1170 Shaw Rd",NULL,Glendale,"CA ",California,0,91203,US,"United States","North America",Southwest
+11044,AW00011044,I,Home,"6935 Candle Dr",NULL,"Hervey Bay",QLD,Queensland,0,4655,AU,Australia,Pacific,Australia
+11045,AW00011045,I,Home,"7466 La Vista Ave.",NULL,Matraville,NSW,"New South Wales",0,2036,AU,Australia,Pacific,Australia
+11046,AW00011046,I,Home,"2356 Orange St",NULL,"Lavender Bay",NSW,"New South Wales",0,2060,AU,Australia,Pacific,Australia
+11047,AW00011047,I,Home,"2812 Mazatlan",NULL,Geelong,VIC,Victoria,0,3220,AU,Australia,Pacific,Australia
+11048,AW00011048,I,Home,"1803 Potomac Dr.",NULL,Sunbury,VIC,Victoria,0,3429,AU,Australia,Pacific,Australia
+11049,AW00011049,I,Home,"6064 Madrid",NULL,"Chula Vista","CA ",California,0,91910,US,"United States","North America",Southwest
+11050,AW00011050,I,Home,"2741 Gainborough Dr.",NULL,Hobart,TAS,Tasmania,0,7001,AU,Australia,Pacific,Australia
+11051,AW00011051,I,Home,"8085 Sunnyvale Avenue",NULL,Caloundra,QLD,Queensland,0,4551,AU,Australia,Pacific,Australia
+11052,AW00011052,I,Home,"2514 Via Cordona",NULL,Matraville,NSW,"New South Wales",0,2036,AU,Australia,Pacific,Australia
+11053,AW00011053,I,Home,"1660 Stonyhill Circle",NULL,"San Diego","CA ",California,0,92102,US,"United States","North America",Southwest
+11054,AW00011054,I,Home,"5825 B Way",NULL,Geelong,VIC,Victoria,0,3220,AU,Australia,Pacific,Australia
+11055,AW00011055,I,Home,"8811 The Trees Dr.",NULL,"East Brisbane",QLD,Queensland,0,4169,AU,Australia,Pacific,Australia
+11056,AW00011056,I,Home,"5464 Janin Pl.",NULL,Newcastle,NSW,"New South Wales",0,2300,AU,Australia,Pacific,Australia
+11057,AW00011057,I,Home,"6930 Lake Nadine Place",NULL,"Lane Cove",NSW,"New South Wales",0,1597,AU,Australia,Pacific,Australia
+11058,AW00011058,I,Home,"6645 Sinaloa",NULL,Findon,"SA ","South Australia",0,5023,AU,Australia,Pacific,Australia
+11059,AW00011059,I,Home,"8255 Highland Road",NULL,Townsville,QLD,Queensland,0,4810,AU,Australia,Pacific,Australia
+11060,AW00011060,I,Home,"6574 Hemlock Ave.",NULL,Warrnambool,VIC,Victoria,0,3280,AU,Australia,Pacific,Australia
+11061,AW00011061,I,Home,"8808 Geneva Ave",NULL,"Gold Coast",QLD,Queensland,0,4217,AU,Australia,Pacific,Australia
+11062,AW00011062,I,Home,"9794 Marion Ct",NULL,Portland,"OR ",Oregon,0,97205,US,"United States","North America",Northwest
+11063,AW00011063,I,Home,"4927 Virgil Street","# 21",Redmond,"WA ",Washington,0,98052,US,"United States","North America",Northwest
+11064,AW00011064,I,Home,"2721 Alexander Pl.",NULL,Downey,"CA ",California,0,90241,US,"United States","North America",Southwest
+11065,AW00011065,I,Home,"9343 Ironwood Way",NULL,"La Jolla","CA ",California,0,92806,US,"United States","North America",Southwest
+11066,AW00011066,I,Home,"4739 Garden Ave.",NULL,Lebanon,"OR ",Oregon,0,97355,US,"United States","North America",Northwest
+11067,AW00011067,I,Home,"9563 Pennsylvania Blvd.",NULL,"Port Orchard","WA ",Washington,0,98366,US,"United States","North America",Northwest
+11068,AW00011068,I,Home,"3608 Sinclair Avenue","# 701",Warrnambool,VIC,Victoria,0,3280,AU,Australia,Pacific,Australia
+11069,AW00011069,I,Home,"4606 Springwood Court",NULL,"Gold Coast",QLD,Queensland,0,4217,AU,Australia,Pacific,Australia
+11070,AW00011070,I,Home,"6260 Vernal Drive",NULL,Sunbury,VIC,Victoria,0,3429,AU,Australia,Pacific,Australia
+11071,AW00011071,I,Home,"9808 Shaw Rd.",NULL,Hawthorne,QLD,Queensland,0,4171,AU,Australia,Pacific,Australia
+11072,AW00011072,I,Home,"9513 Roslyn Drive",NULL,"St. Leonards",NSW,"New South Wales",0,2065,AU,Australia,Pacific,Australia
+11073,AW00011073,I,Home,"2262 Kirkwood Ct.",NULL,Springwood,NSW,"New South Wales",0,2777,AU,Australia,Pacific,Australia
+11074,AW00011074,I,Home,"4661 Bluetail",NULL,Cloverdale,"SA ","South Australia",0,6105,AU,Australia,Pacific,Australia
+11075,AW00011075,I,Home,"786 Eastgate Ave",NULL,Bendigo,VIC,Victoria,0,3550,AU,Australia,Pacific,Australia
+11076,AW00011076,I,Home,"5436 Clear","# 101",Wollongong,NSW,"New South Wales",0,2500,AU,Australia,Pacific,Australia
+11077,AW00011077,I,Home,"1291 Arguello Blvd.",NULL,Melton,VIC,Victoria,0,3337,AU,Australia,Pacific,Australia
+11078,AW00011078,I,Home,"1349 Sol St.",NULL,Cliffside,"BC ","British Columbia",0,"V8Y 1L1",CA,Canada,"North America",Canada
+11079,AW00011079,I,Home,"4236 Malibu Place",NULL,Geelong,VIC,Victoria,0,3220,AU,Australia,Pacific,Australia
+11080,AW00011080,I,Home,"9941 Stonehedge Dr.",NULL,Perth,"SA ","South Australia",0,6006,AU,Australia,Pacific,Australia
+11081,AW00011081,I,Home,"1210 Trafalgar Circle",NULL,Concord,"CA ",California,0,94519,US,"United States","North America",Southwest
+11082,AW00011082,I,Home,"6040 Listing Ct",NULL,Fremont,"CA ",California,0,94536,US,"United States","North America",Southwest
+11083,AW00011083,I,Home,"867 La Orinda Place",NULL,"Lincoln Acres","CA ",California,0,91950,US,"United States","North America",Southwest
+11084,AW00011084,I,Home,"8668 St. Celestine Court",NULL,Lebanon,"OR ",Oregon,0,97355,US,"United States","North America",Northwest
+11085,AW00011085,I,Home,"7926 Stephanie Way",NULL,"Newport Beach","CA ",California,0,92625,US,"United States","North America",Southwest
+11086,AW00011086,I,Home,"2939 Wesley Ct.",NULL,"Santa Monica","CA ",California,0,90401,US,"United States","North America",Southwest
+11087,AW00011087,I,Home,"3791 Rossmor Parkway",NULL,"Chula Vista","CA ",California,0,91910,US,"United States","North America",Southwest
+11088,AW00011088,I,Home,"4308 Sand Pointe Lane",NULL,"San Diego","CA ",California,0,92102,US,"United States","North America",Southwest
+11089,AW00011089,I,Home,"2685 Blackburn Ct",NULL,"Long Beach","CA ",California,0,90802,US,"United States","North America",Southwest
+11090,AW00011090,I,Home,"5781 Sharon Dr.",NULL,"Los Angeles","CA ",California,0,90012,US,"United States","North America",Southwest
+11091,AW00011091,I,Home,"6083 San Jose",NULL,Haney,"BC ","British Columbia",0,"V2W 1W2",CA,Canada,"North America",Canada
+11092,AW00011092,I,Home,"7297 Kaywood Drive",NULL,"East Brisbane",QLD,Queensland,0,4169,AU,Australia,Pacific,Australia
+11093,AW00011093,I,Home,"1833 Olympic Drive",NULL,Wollongong,NSW,"New South Wales",0,2500,AU,Australia,Pacific,Australia
+11094,AW00011094,I,Home,"3407 Oak Brook Place",NULL,Cranbourne,VIC,Victoria,0,3977,AU,Australia,Pacific,Australia
+11095,AW00011095,I,Home,"1681 Lighthouse Way",NULL,"Port Macquarie",NSW,"New South Wales",0,2444,AU,Australia,Pacific,Australia
+11096,AW00011096,I,Home,"5423 Los Gatos Ct.",NULL,"North Sydney",NSW,"New South Wales",0,2055,AU,Australia,Pacific,Australia
+11097,AW00011097,I,Home,"719 William Way",NULL,Warrnambool,VIC,Victoria,0,3280,AU,Australia,Pacific,Australia
+11098,AW00011098,I,Home,"6452 Harris Circle",NULL,Rhodes,NSW,"New South Wales",0,2138,AU,Australia,Pacific,Australia
+11099,AW00011099,I,Home,"4378 Westminster Place",NULL,"Port Macquarie",NSW,"New South Wales",0,2444,AU,Australia,Pacific,Australia
+11100,AW00011100,I,Home,"6954 Ranch Road",NULL,Cloverdale,"SA ","South Australia",0,6105,AU,Australia,Pacific,Australia
+11101,AW00011101,I,Home,"7074 N. Spoonwood Court",NULL,Cranbourne,VIC,Victoria,0,3977,AU,Australia,Pacific,Australia
+11102,AW00011102,I,Home,"2196 Coat Ct.",NULL,Sydney,NSW,"New South Wales",0,1002,AU,Australia,Pacific,Australia
+11103,AW00011103,I,Home,"9448 San Marino Ct.",NULL,Darlinghurst,NSW,"New South Wales",0,2010,AU,Australia,Pacific,Australia
+11104,AW00011104,I,Home,"6127 Lilly Lane",NULL,"Gold Coast",QLD,Queensland,0,4217,AU,Australia,Pacific,Australia
+11105,AW00011105,I,Home,"5029 Blue Ridge",NULL,Matraville,NSW,"New South Wales",0,2036,AU,Australia,Pacific,Australia
+11106,AW00011106,I,Home,"3063 Blue Jay Drive",NULL,Warrnambool,VIC,Victoria,0,3280,AU,Australia,Pacific,Australia
+11107,AW00011107,I,Home,"7530 Eola",NULL,"St. Leonards",NSW,"New South Wales",0,2065,AU,Australia,Pacific,Australia
+11108,AW00011108,I,Home,"9178 Thornhill Place",NULL,"Port Macquarie",NSW,"New South Wales",0,2444,AU,Australia,Pacific,Australia
+11109,AW00011109,I,Home,"1984 Glendale Circle",NULL,"South Melbourne",VIC,Victoria,0,3205,AU,Australia,Pacific,Australia
+11110,AW00011110,I,Home,"4052 Mt. Wilson Way",NULL,Darlinghurst,NSW,"New South Wales",0,2010,AU,Australia,Pacific,Australia
+11111,AW00011111,I,Home,"7610 Northridge Ct.",NULL,Geelong,VIC,Victoria,0,3220,AU,Australia,Pacific,Australia
+11112,AW00011112,I,Home,"2773 Kirkwood Dr",NULL,"Hervey Bay",QLD,Queensland,0,4655,AU,Australia,Pacific,Australia
+11113,AW00011113,I,Home,"596 Marfargoa Drive",NULL,Perth,"SA ","South Australia",0,6006,AU,Australia,Pacific,Australia
+11114,AW00011114,I,Home,"7941 Cristobal",NULL,Rhodes,NSW,"New South Wales",0,2138,AU,Australia,Pacific,Australia
+11115,AW00011115,I,Home,"7759 Azalea Avenue",NULL,"St. Leonards",NSW,"New South Wales",0,2065,AU,Australia,Pacific,Australia
+11116,AW00011116,I,Home,"7943 Cunha Ct.",NULL,Sydney,NSW,"New South Wales",0,1002,AU,Australia,Pacific,Australia
+11117,AW00011117,I,Home,"485 Ash Lane",NULL,Matraville,NSW,"New South Wales",0,2036,AU,Australia,Pacific,Australia
+11118,AW00011118,I,Home,"3853 Wildcat Circle","Unit 13c12","Lavender Bay",NSW,"New South Wales",0,2060,AU,Australia,Pacific,Australia
+11119,AW00011119,I,Home,"4157 Sierra Ridge",NULL,"Port Macquarie",NSW,"New South Wales",0,2444,AU,Australia,Pacific,Australia
+11120,AW00011120,I,Home,"7401 Las Palmas",NULL,Sydney,NSW,"New South Wales",0,1002,AU,Australia,Pacific,Australia
+11121,AW00011121,I,Home,"7743 Hames Dr",NULL,Newcastle,NSW,"New South Wales",0,2300,AU,Australia,Pacific,Australia
+11122,AW00011122,I,Home,"3187 Hackamore Lane",NULL,"North Sydney",NSW,"New South Wales",0,2055,AU,Australia,Pacific,Australia
+11123,AW00011123,I,Home,"2775 Mt. Olivet Pl.",NULL,Sunbury,VIC,Victoria,0,3429,AU,Australia,Pacific,Australia
+11124,AW00011124,I,Home,"6973 Dublin Court",NULL,Warrnambool,VIC,Victoria,0,3280,AU,Australia,Pacific,Australia
+11125,AW00011125,I,Home,"8481 Zartop Street",NULL,Seaford,VIC,Victoria,0,3198,AU,Australia,Pacific,Australia
+11126,AW00011126,I,Home,"57 Wolf Way",NULL,"North Ryde",NSW,"New South Wales",0,2113,AU,Australia,Pacific,Australia
+11127,AW00011127,I,Home,"9409 The Alameda",NULL,"San Gabriel","CA ",California,0,91776,US,"United States","North America",Southwest
+11128,AW00011128,I,Home,"1606 Alderwood Lane",NULL,Renton,"WA ",Washington,0,98055,US,"United States","North America",Northwest
+11129,AW00011129,I,Home,"7397 Central Blvd.",NULL,"Sedro Woolley","WA ",Washington,0,98284,US,"United States","North America",Northwest
+11130,AW00011130,I,Home,"3884 Bates Court",NULL,Lebanon,"OR ",Oregon,0,97355,US,"United States","North America",Northwest
+11131,AW00011131,I,Home,"9573 Royal Oak Rd.",NULL,Haney,"BC ","British Columbia",0,"V2W 1W2",CA,Canada,"North America",Canada
+11132,AW00011132,I,Home,"6832 Fruitwood Dr",NULL,Langford,"BC ","British Columbia",0,V9,CA,Canada,"North America",Canada
+11133,AW00011133,I,Home,"3828 Baltic Sea Ct",NULL,"Lake Oswego","OR ",Oregon,0,97034,US,"United States","North America",Northwest
+11134,AW00011134,I,Home,"7034 Carson",NULL,Perth,"SA ","South Australia",0,6006,AU,Australia,Pacific,Australia
+11135,AW00011135,I,Home,"9068 Quiet Place Drive",NULL,Burlingame,"CA ",California,0,94010,US,"United States","North America",Southwest
+11136,AW00011136,I,Home,"9005 Eagle Ct.",NULL,Metchosin,"BC ","British Columbia",0,V9,CA,Canada,"North America",Canada
+11137,AW00011137,I,Home,"2457 Matterhorn Court",NULL,Spokane,"WA ",Washington,0,99202,US,"United States","North America",Northwest
+11138,AW00011138,I,Home,"8105 Pembrook Court",NULL,Glendale,"CA ",California,0,91203,US,"United States","North America",Southwest
+11139,AW00011139,I,Home,"6155 Wilbur Drive",NULL,Cloverdale,"SA ","South Australia",0,6105,AU,Australia,Pacific,Australia
+11140,AW00011140,I,Home,"8935 Etcheverry Dr.",NULL,Burbank,"CA ",California,0,91502,US,"United States","North America",Southwest
+11141,AW00011141,I,Home,"1101 C Street",NULL,"Daly City","CA ",California,0,94015,US,"United States","North America",Southwest
+11142,AW00011142,I,Home,"6255 Macalvey Dr.",NULL,Langford,"BC ","British Columbia",0,V9,CA,Canada,"North America",Canada
+11143,AW00011143,I,Home,"165 East Lane Road",NULL,Lakewood,"CA ",California,0,90712,US,"United States","North America",Southwest
+11144,AW00011144,I,Home,"7607 Pine Hollow Road",NULL,Ballard,"WA ",Washington,0,98107,US,"United States","North America",Northwest
+11145,AW00011145,I,Home,"1961 Oak Grove Road",NULL,Beaverton,"OR ",Oregon,0,97005,US,"United States","North America",Northwest
+11146,AW00011146,I,Home,"3272 Corrie Lane",NULL,Matraville,NSW,"New South Wales",0,2036,AU,Australia,Pacific,Australia
+11147,AW00011147,I,Home,"1832 RiverRock Dr",NULL,Warrnambool,VIC,Victoria,0,3280,AU,Australia,Pacific,Australia
+11148,AW00011148,I,Home,"1201 Paso Del Rio Way",NULL,"East Brisbane",QLD,Queensland,0,4169,AU,Australia,Pacific,Australia
+11149,AW00011149,I,Home,"9120 Pinewood Court",NULL,"Hervey Bay",QLD,Queensland,0,4655,AU,Australia,Pacific,Australia
+11150,AW00011150,I,Home,"4755 Easley Drive",NULL,Sunbury,VIC,Victoria,0,3429,AU,Australia,Pacific,Australia
+11151,AW00011151,I,Home,"805 Rainier Dr.",NULL,Sydney,NSW,"New South Wales",0,1002,AU,Australia,Pacific,Australia
+11152,AW00011152,I,Home,"6827 Seagull Court",NULL,Puyallup,"WA ",Washington,0,98371,US,"United States","North America",Northwest
+11153,AW00011153,I,Home,"8877 Weatherly Drive",NULL,Renton,"WA ",Washington,0,98055,US,"United States","North America",Northwest
+11154,AW00011154,I,Home,"6898 Holiday Hills",NULL,Woodburn,"OR ",Oregon,0,97071,US,"United States","North America",Northwest
+11155,AW00011155,I,Home,"8356 Mori Court",NULL,Burbank,"CA ",California,0,91502,US,"United States","North America",Southwest
+11156,AW00011156,I,Home,"9452 Mariposa Ct.",NULL,Lakewood,"CA ",California,0,90712,US,"United States","North America",Southwest
+11157,AW00011157,I,Home,"1832 Preston Ct.",NULL,Tacoma,"WA ",Washington,0,98403,US,"United States","North America",Northwest
+11158,AW00011158,I,Home,"6771 Bundros Court",NULL,"San Gabriel","CA ",California,0,91776,US,"United States","North America",Southwest
+11159,AW00011159,I,Home,"6793 Bonifacio St.",NULL,"Woodland Hills","CA ",California,0,91364,US,"United States","North America",Southwest
+11160,AW00011160,I,Home,"2886 Chaparral Court","Space # 45",Concord,"CA ",California,0,94519,US,"United States","North America",Southwest
+11161,AW00011161,I,Home,"1562 Black Walnut",NULL,Concord,"CA ",California,0,94519,US,"United States","North America",Southwest
+11162,AW00011162,I,Home,"P.O. Box 8070",NULL,"La Jolla","CA ",California,0,92806,US,"United States","North America",Southwest
+11163,AW00011163,I,Home,"8002 Crane Court",NULL,"Spring Valley","CA ",California,0,91977,US,"United States","North America",Southwest
+11164,AW00011164,I,Home,"4231 Highland Dr.",NULL,Torrance,"CA ",California,0,90505,US,"United States","North America",Southwest
+11165,AW00011165,I,Home,"3376 Bank Way",NULL,Oakland,"CA ",California,0,94611,US,"United States","North America",Southwest
+11166,AW00011166,I,Home,"6993 Whyte Park Ave.",NULL,Olympia,"WA ",Washington,0,98501,US,"United States","North America",Northwest
+11167,AW00011167,I,Home,"9183 Via Del Sol",NULL,Issaquah,"WA ",Washington,0,98027,US,"United States","North America",Northwest
+11168,AW00011168,I,Home,"38 Shangri-la Rd.",NULL,Oakland,"CA ",California,0,94611,US,"United States","North America",Southwest
+11169,AW00011169,I,Home,"1841 Blackwood Drive",NULL,Coronado,"CA ",California,0,92118,US,"United States","North America",Southwest
+11170,AW00011170,I,Home,"6281 Edward Ave",NULL,Burien,"WA ",Washington,0,98168,US,"United States","North America",Northwest
+11171,AW00011171,I,Home,"3731 Chinquapin Ct",NULL,"Woodland Hills","CA ",California,0,91364,US,"United States","North America",Southwest
+11172,AW00011172,I,Home,"5621 Arcadia Pl.",NULL,Lynnwood,"WA ",Washington,0,98036,US,"United States","North America",Northwest
+11173,AW00011173,I,Home,"5636 Mt. Whitney Dr.",NULL,"W. Linn","OR ",Oregon,0,97068,US,"United States","North America",Northwest
+11174,AW00011174,I,Home,"1318 Lasalle Street",NULL,"Los Angeles","CA ",California,0,90012,US,"United States","North America",Southwest
+11175,AW00011175,I,Home,"6943 Patterson Blvd.",NULL,"Beverly Hills","CA ",California,0,90210,US,"United States","North America",Southwest
+11176,AW00011176,I,Home,"5753 Megan Dr.",NULL,Haney,"BC ","British Columbia",0,"V2W 1W2",CA,Canada,"North America",Canada
+11177,AW00011177,I,Home,"3991 Rambling Rose Drive",NULL,"San Diego","CA ",California,0,92102,US,"United States","North America",Southwest
+11178,AW00011178,I,Home,"8927 Daylight Place",NULL,Lakewood,"CA ",California,0,90712,US,"United States","North America",Southwest
+11179,AW00011179,I,Home,"5556 Riverland Dr.",NULL,"Beverly Hills","CA ",California,0,90210,US,"United States","North America",Southwest
+11180,AW00011180,I,Home,"3531 Brookview Drive",NULL,"Chula Vista","CA ",California,0,91910,US,"United States","North America",Southwest
+11181,AW00011181,I,Home,"1085 Greenbelt Way","Unit B-105","Los Angeles","CA ",California,0,90012,US,"United States","North America",Southwest
+11182,AW00011182,I,Home,"6968 Mildred Ln.",NULL,"Sedro Woolley","WA ",Washington,0,98284,US,"United States","North America",Northwest
+11183,AW00011183,I,Home,"7502 Contuti Avenue",NULL,"Santa Cruz","CA ",California,0,95062,US,"United States","North America",Southwest
+11184,AW00011184,I,Home,"5872 L St.",NULL,Concord,"CA ",California,0,94519,US,"United States","North America",Southwest
+11185,AW00011185,I,Home,"8834 San Jose Ave.",NULL,Metchosin,"BC ","British Columbia",0,V9,CA,Canada,"North America",Canada
+11186,AW00011186,I,Home,"4815 Paraiso Ct.",NULL,"Palo Alto","CA ",California,0,94303,US,"United States","North America",Southwest
+11187,AW00011187,I,Home,"2429 Longview Road",NULL,Burien,"WA ",Washington,0,98168,US,"United States","North America",Northwest
+11188,AW00011188,I,Home,"6542 Stonewood Drive",NULL,"San Gabriel","CA ",California,0,91776,US,"United States","North America",Southwest
+11189,AW00011189,I,Home,"7502 Contuti Avenue",NULL,Bellingham,"WA ",Washington,0,98225,US,"United States","North America",Northwest
+11190,AW00011190,I,Home,"2995 Youngsdale Dr.",NULL,"Beverly Hills","CA ",California,0,90210,US,"United States","North America",Southwest
+11191,AW00011191,I,Home,"1769 Lislin Ct",NULL,Colma,"CA ",California,0,94014,US,"United States","North America",Southwest
+11192,AW00011192,I,Home,"673 Old Mountain View Dr.",NULL,Seattle,"WA ",Washington,0,98104,US,"United States","North America",Northwest
+11193,AW00011193,I,Home,"5941 Gill Dr.",NULL,Woodburn,"OR ",Oregon,0,97071,US,"United States","North America",Northwest
+11194,AW00011194,I,Home,"872 Mark Twain Dr",NULL,"Palo Alto","CA ",California,0,94303,US,"United States","North America",Southwest
+11195,AW00011195,I,Home,"8411 Mt. Olivet Place",NULL,Renton,"WA ",Washington,0,98055,US,"United States","North America",Northwest
+11196,AW00011196,I,Home,"2499 Greendell Pl",NULL,Beaverton,"OR ",Oregon,0,97005,US,"United States","North America",Northwest
+11197,AW00011197,I,Home,"1883 Green View Court",NULL,Seattle,"WA ",Washington,0,98104,US,"United States","North America",Northwest
+11198,AW00011198,I,Home,"5192 Dumbarton Drive",NULL,"Santa Cruz","CA ",California,0,95062,US,"United States","North America",Southwest
+11199,AW00011199,I,Home,"8948 Chinquapin Court",NULL,Burlingame,"CA ",California,0,94010,US,"United States","North America",Southwest
+11200,AW00011200,I,Home,"7239 Nicholas Drive",NULL,Victoria,"BC ","British Columbia",0,V8V,CA,Canada,"North America",Canada
+11201,AW00011201,I,Home,"3984 San Francisco",NULL,"Santa Monica","CA ",California,0,90401,US,"United States","North America",Southwest
+11202,AW00011202,I,Home,"2079 Wellington Ct",NULL,Lakewood,"CA ",California,0,90712,US,"United States","North America",Southwest
+11203,AW00011203,I,Home,"3682 Diablo View Road",NULL,"Port Hammond","BC ","British Columbia",0,"V6B 3P7",CA,Canada,"North America",Canada
+11204,AW00011204,I,Home,"6965 Appalachian Drive",NULL,Beaverton,"OR ",Oregon,0,97005,US,"United States","North America",Northwest
+11205,AW00011205,I,Home,"8330 Glenside Court",NULL,Burien,"WA ",Washington,0,98168,US,"United States","North America",Northwest
+11206,AW00011206,I,Home,"9410 Ferry St.",NULL,Lynnwood,"WA ",Washington,0,98036,US,"United States","North America",Northwest
+11207,AW00011207,I,Home,"2346 Wren Ave",NULL,Renton,"WA ",Washington,0,98055,US,"United States","North America",Northwest
+11208,AW00011208,I,Home,"1413 Bridgeview St",NULL,Glendale,"CA ",California,0,91203,US,"United States","North America",Southwest
+11209,AW00011209,I,Home,"3515 Sutton Circle",NULL,"Lincoln Acres","CA ",California,0,91950,US,"United States","North America",Southwest
+11210,AW00011210,I,Home,"1039 Adelaide St.",NULL,"West Covina","CA ",California,0,91791,US,"United States","North America",Southwest
+11211,AW00011211,I,Home,"9256 Village Oaks Dr.",NULL,Haney,"BC ","British Columbia",0,"V2W 1W2",CA,Canada,"North America",Canada
+11212,AW00011212,I,Home,"3562 East Ave.","# 4",Metchosin,"BC ","British Columbia",0,V9,CA,Canada,"North America",Canada
+11213,AW00011213,I,Home,"5514 Grant Street",NULL,Edmonds,"WA ",Washington,0,98020,US,"United States","North America",Northwest
+11214,AW00011214,I,Home,"2719 Little Dr",NULL,Milwaukie,"OR ",Oregon,0,97222,US,"United States","North America",Northwest
+11215,AW00011215,I,Home,"3114 Arlington Way",NULL,"Royal Oak","BC ","British Columbia",0,V8X,CA,Canada,"North America",Canada
+11216,AW00011216,I,Home,"8328 San Francisco",NULL,Portland,"OR ",Oregon,0,97205,US,"United States","North America",Northwest
+11217,AW00011217,I,Home,"6592 Bent Tree Lane",NULL,Portland,"OR ",Oregon,0,97205,US,"United States","North America",Northwest
+11218,AW00011218,I,Home,"3964 Stony Hill Circle",NULL,Tacoma,"WA ",Washington,0,98403,US,"United States","North America",Northwest
+11219,AW00011219,I,Home,"6871 Bel Air Dr.",NULL,Woodburn,"OR ",Oregon,0,97071,US,"United States","North America",Northwest
+11220,AW00011220,I,Home,"9142 All Ways Drive",NULL,Colma,"CA ",California,0,94014,US,"United States","North America",Southwest
+11221,AW00011221,I,Home,"9714 Nicholas Drive",NULL,Lakewood,"CA ",California,0,90712,US,"United States","North America",Southwest
+11222,AW00011222,I,Home,"4999 Corte Segunda",NULL,"Santa Monica","CA ",California,0,90401,US,"United States","North America",Southwest
+11223,AW00011223,I,Home,"5045 Vancouver Way","# 133",Langley,"BC ","British Columbia",0,"V3A 4R2",CA,Canada,"North America",Canada
+11224,AW00011224,I,Home,"6404 Del Mar Ave",NULL,Burien,"WA ",Washington,0,98168,US,"United States","North America",Northwest
+11225,AW00011225,I,Home,"5927 Seaview Avenue",NULL,Renton,"WA ",Washington,0,98055,US,"United States","North America",Northwest
+11226,AW00011226,I,Home,"5252 Santa Fe",NULL,"W. Linn","OR ",Oregon,0,97068,US,"United States","North America",Northwest
+11227,AW00011227,I,Home,"9022 Estudillo Street",NULL,Colma,"CA ",California,0,94014,US,"United States","North America",Southwest
+11228,AW00011228,I,Home,"7681 Willow Pass Road",NULL,"El Cajon","CA ",California,0,92020,US,"United States","North America",Southwest
+11229,AW00011229,I,Home,"6898 Shaw Rd.",NULL,"Redwood City","CA ",California,0,94063,US,"United States","North America",Southwest
+11230,AW00011230,I,Home,"6345 Ridge Circle",NULL,"Santa Monica","CA ",California,0,90401,US,"United States","North America",Southwest
+11231,AW00011231,I,Home,"3951 Calle Verde Drive",NULL,Bremerton,"WA ",Washington,0,98312,US,"United States","North America",Northwest
+11232,AW00011232,I,Home,"2828 Rogers Ave.",NULL,Everett,"WA ",Washington,0,98201,US,"United States","North America",Northwest
+11233,AW00011233,I,Home,"5897 Scottsdale Rd.",NULL,Berkeley,"CA ",California,0,94704,US,"United States","North America",Southwest
+11234,AW00011234,I,Home,"7221 Peachwillow Street",NULL,"Long Beach","CA ",California,0,90802,US,"United States","North America",Southwest
+11235,AW00011235,I,Home,"2585 La Salle Ct.",NULL,Ballard,"WA ",Washington,0,98107,US,"United States","North America",Northwest
+11236,AW00011236,I,Home,"8811 The Trees Dr.",NULL,Bellingham,"WA ",Washington,0,98225,US,"United States","North America",Northwest
+11237,AW00011237,I,Home,"Welt Platz 6",NULL,Solingen,"NW ",Nordrhein-Westfalen,0,42651,DE,Germany,Europe,Germany
+11238,AW00011238,I,Home,"1119 Elderwood Dr.",#3,Birmingham,ENG,England,1,"B29 6SL",GB,"United Kingdom",Europe,"United Kingdom"
+11239,AW00011239,I,Home,"8154 Pheasant Circle",NULL,London,ENG,England,1,"SW1P 2NU",GB,"United Kingdom",Europe,"United Kingdom"
+11240,AW00011240,I,Home,"76 Woodcrest Dr.",NULL,Watford,ENG,England,1,WA3,GB,"United Kingdom",Europe,"United Kingdom"
+11241,AW00011241,I,Home,"102, rue de Berri",NULL,"Les Ulis","91 ",Essonne,0,91940,FR,France,Europe,France
+11242,AW00011242,I,Home,Midi-Couleurs,NULL,Versailles,"78 ",Yveline,0,78000,FR,France,Europe,France
+11243,AW00011243,I,Home,"4086 Emmons Canyon Lane",NULL,Esher-Molesey,ENG,England,1,EM15,GB,"United Kingdom",Europe,"United Kingdom"
+11244,AW00011244,I,Home,"7140 Camelback Road",NULL,Runcorn,ENG,England,1,TY31,GB,"United Kingdom",Europe,"United Kingdom"
+11245,AW00011245,I,Home,"Roßstr 9928",NULL,Hamburg,"HE ",Hessen,0,22001,DE,Germany,Europe,Germany
+11246,AW00011246,I,Home,"Alderstr 7690",NULL,Hamburg,"HH ",Hamburg,0,20354,DE,Germany,Europe,Germany
+11247,AW00011247,I,Home,"6516 Beauer Lane",NULL,Lancaster,ENG,England,1,"LA1 1LN",GB,"United Kingdom",Europe,"United Kingdom"
+11248,AW00011248,I,Home,"88, avenue des Champs-Elysées",NULL,Saint-Denis,"93 ","Seine Saint Denis",0,93400,FR,France,Europe,France
+11249,AW00011249,I,Home,"Essener Straße 123",NULL,"Sulzbach Taunus","SL ",Saarland,0,66272,DE,Germany,Europe,Germany
+11250,AW00011250,I,Home,"4185 Keywood Ct.",NULL,Woolston,ENG,England,1,"WA1 4SY",GB,"United Kingdom",Europe,"United Kingdom"
+11251,AW00011251,I,Home,"9245 Dantley Way",NULL,Haney,"BC ","British Columbia",0,"V2W 1W2",CA,Canada,"North America",Canada
+11252,AW00011252,I,Home,"504 O St.",NULL,"Lemon Grove","CA ",California,0,91945,US,"United States","North America",Southwest
+11253,AW00011253,I,Home,"5703 Donald Dr.",NULL,Victoria,"BC ","British Columbia",0,V8V,CA,Canada,"North America",Canada
+11254,AW00011254,I,Home,"9430 Versailles Pl",NULL,Burien,"WA ",Washington,0,98168,US,"United States","North America",Northwest
+11255,AW00011255,I,Home,"6083 San Jose",NULL,Burien,"WA ",Washington,0,98168,US,"United States","North America",Northwest
+11256,AW00011256,I,Home,"7496 Deerfield Dr.",NULL,Lynnwood,"WA ",Washington,0,98036,US,"United States","North America",Northwest
+11257,AW00011257,I,Home,"4076 Northwood Dr",NULL,"Newport Beach","CA ",California,0,92625,US,"United States","North America",Southwest
+11258,AW00011258,I,Home,"2707 Virgil Street",NULL,"Palo Alto","CA ",California,0,94303,US,"United States","North America",Southwest
+11259,AW00011259,I,Home,"3623 Barquentine Court",NULL,Salem,"OR ",Oregon,0,97301,US,"United States","North America",Northwest
+11260,AW00011260,I,Home,"7085 Solano Drive",NULL,Burlingame,"CA ",California,0,94010,US,"United States","North America",Southwest
+11261,AW00011261,I,Home,"2868 Central Avenue",NULL,"San Diego","CA ",California,0,92102,US,"United States","North America",Southwest
+11262,AW00011262,I,Home,"7959 Mt. Wilson Way",NULL,"Port Hammond","BC ","British Columbia",0,"V6B 3P7",CA,Canada,"North America",Canada
+11263,AW00011263,I,Home,"3063 Blue Jay Drive",NULL,Burien,"WA ",Washington,0,98168,US,"United States","North America",Northwest
+11264,AW00011264,I,Home,"5137 Pheasant Court",NULL,Issaquah,"WA ",Washington,0,98027,US,"United States","North America",Northwest
+11265,AW00011265,I,Home,"2253 Firestone Dr.",NULL,Kirkland,"WA ",Washington,0,98033,US,"United States","North America",Northwest
+11266,AW00011266,I,Home,"7396 Stratton Circle",NULL,"Port Orchard","WA ",Washington,0,98366,US,"United States","North America",Northwest
+11267,AW00011267,I,Home,"2075 Browse Ct",NULL,Burlingame,"CA ",California,0,94010,US,"United States","North America",Southwest
+11268,AW00011268,I,Home,"3050 Monte Cresta Avenue",NULL,Coronado,"CA ",California,0,92118,US,"United States","North America",Southwest
+11269,AW00011269,I,Home,"5376 Sahara Drive",NULL,"Daly City","CA ",California,0,94015,US,"United States","North America",Southwest
+11270,AW00011270,I,Home,"5461 Camino Verde Ct.",NULL,Lakewood,"CA ",California,0,90712,US,"United States","North America",Southwest
+11271,AW00011271,I,Home,"6683 Carrick Ct",NULL,"San Francisco","CA ",California,0,94109,US,"United States","North America",Southwest
+11272,AW00011272,I,Home,"4357 Tosca Way",NULL,"Beverly Hills","CA ",California,0,90210,US,"United States","North America",Southwest
+11273,AW00011273,I,Home,"7064 Cypress Ave",NULL,"La Jolla","CA ",California,0,92806,US,"United States","North America",Southwest
+11274,AW00011274,I,Home,"5617 Landing Dr",NULL,Bellingham,"WA ",Washington,0,98225,US,"United States","North America",Northwest
+11275,AW00011275,I,Home,"1440 Willow Pass Dr.",NULL,Colma,"CA ",California,0,94014,US,"United States","North America",Southwest
+11276,AW00011276,I,Home,"1480 Shoenic",NULL,Cliffside,"BC ","British Columbia",0,"V8Y 1L1",CA,Canada,"North America",Canada
+11277,AW00011277,I,Home,"3400 Folson Drive",NULL,"Royal Oak","BC ","British Columbia",0,V8X,CA,Canada,"North America",Canada
+11278,AW00011278,I,Home,"8772 Rock Creek Way",NULL,Edmonds,"WA ",Washington,0,98020,US,"United States","North America",Northwest
+11279,AW00011279,I,Shipping,"4098 Woodcrest Dr.",NULL,Everett,"WA ",Washington,0,98201,US,"United States","North America",Northwest
+11279,AW00011279,I,Home,"9187 Vista Del Sol",NULL,Everett,"WA ",Washington,0,98201,US,"United States","North America",Northwest
+11280,AW00011280,I,Home,"5271 Sierra Road",NULL,Lynnwood,"WA ",Washington,0,98036,US,"United States","North America",Northwest
+11281,AW00011281,I,Home,"40 Ellis St.",NULL,Burbank,"CA ",California,0,91502,US,"United States","North America",Southwest
+11282,AW00011282,I,Home,"5205 Coralie Drive",NULL,Burien,"WA ",Washington,0,98168,US,"United States","North America",Northwest
+11283,AW00011283,I,Home,"4593 Mendouno Dr.",NULL,Berkeley,"CA ",California,0,94704,US,"United States","North America",Southwest
+11284,AW00011284,I,Home,"9007 S Royal Links Circle",NULL,"Chula Vista","CA ",California,0,91910,US,"United States","North America",Southwest
+11285,AW00011285,I,Home,"7655 Greer Ave",NULL,Fremont,"CA ",California,0,94536,US,"United States","North America",Southwest
+11286,AW00011286,I,Home,"4079 Redbird Lane",NULL,Torrance,"CA ",California,0,90505,US,"United States","North America",Southwest
