@@ -54,5 +54,5 @@ The Jupyter notebook is called `ds2002_project1_take2.ipynb` (take2 because I di
 
 ## Submission Artifacts
 - **Jupyter Notebook**: `ds2002_project1_take2.ipynb`
-- **Data Files**: `customers.csv`, `products.json`
+- **Data Files**: `customers.csv`, `products.json`, `AdventureWorks_Queries_MySQL.sql`, `Create_Populate_DimDate_MSSQLSvr.sql`, `create_dim_date_mysql.sql`
 - **Documentation**: This README.md
