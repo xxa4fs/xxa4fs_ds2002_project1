@@ -53,6 +53,6 @@ The Jupyter notebook is called `ds2002_project1_take2.ipynb` (take2 because I di
 - Two SQL queries show aggregation and grouping across three tables.
 
 ## Submission Artifacts
-- **Jupyter Notebook**: `Data_Project_1.ipynb`
+- **Jupyter Notebook**: `ds2002_project1_take2.ipynb`
 - **Data Files**: `customers.csv`, `products.json`
 - **Documentation**: This README.md
