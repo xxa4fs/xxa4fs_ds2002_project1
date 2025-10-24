@@ -7,7 +7,7 @@ Concepts used for this project include ETL processing, data transformations, usi
 
 ## ETL Pipeline
 Extract:
-- `fact_sales_orders_vw` view from the `adventureworks` database provided sales transaction details
+- `fact_sales_orders_vw` view from the `adventureworks` database provided sales transaction details. The adventureworks database was too large to be uploaded here but the queries version which generated the dimensions where I got the json, csv, and view is uploaded. 
 - `products.json` file was exported as a json from what was originally the dim_products dimension on adventureworks database. It contains product information.
 - `customers.csv` file was exported as a csv from the dim_customers dimension on adventureworks database. It contains customer information.
 - `pymysql` and `pymongo` libraries were used to extract
